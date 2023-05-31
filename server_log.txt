@@ -1,0 +1,2946 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:57:07] password = ""  (string)
+[22:57:07] weburl = "www.sa-mp.com"  (string)
+[22:57:07] password = ""  (string)
+[22:57:07] 
+[22:57:07] Server Plugins
+[22:57:07] --------------
+[22:57:07]  Loading plugin: sampvoice
+[22:57:07] [sv:dbg:network:init] : module initializing...
+[22:57:07] [dbg:raknet:init] : module initializing...
+[22:57:07] [dbg:raknet:init] : module initialized
+[22:57:07] [sv:dbg:network:init] : module initialized
+[22:57:07] [sv:dbg:main:Load] : creating 2 work threads...
+[22:57:07]  -------------------------------------------    
+[22:57:07]    ___                __   __    _              
+[22:57:07]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:57:07]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:57:07]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:57:07]                   |_|                           
+[22:57:07]  -------------------------------------------    
+[22:57:08]            SampVoice by MOR loaded              
+[22:57:08]  -------------------------------------------    
+[22:57:08]   Loaded.
+[22:57:08]  Loading plugin: crashdetect
+[22:57:08]   CrashDetect plugin 4.19.4
+[22:57:08]   Loaded.
+[22:57:08]  Loading plugin: whirlpool
+[22:57:08]  
+[22:57:08]  ==================
+[22:57:09]  
+[22:57:09]   Whirlpool loaded
+[22:57:09]  
+[22:57:09]  ==================
+[22:57:09]  
+[22:57:10]   Loaded.
+[22:57:10]  Loading plugin: pawncmd
+[22:57:10] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:57:10]   Loaded.
+[22:57:10]  Loading plugin: sscanf
+[22:57:11] 
+
+[22:57:11]  ===============================
+
+[22:57:11]       sscanf plugin loaded.     
+
+[22:57:11]          Version:  2.8.1        
+
+[22:57:11]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:57:12]  ===============================
+
+[22:57:12]   Loaded.
+[22:57:12]  Loading plugin: streamer
+[22:57:12] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[22:57:13]   Loaded.
+[22:57:13]  Loading plugin: SKY
+[22:57:13] 
+[22:57:13]  ===============================
+[22:57:13]    
+[22:57:13]    < SKY - 2.3.0 >
+[22:57:13]    
+[22:57:13]    (c) 2008 - Present | YSF Maintainers
+[22:57:13]    (c) 2015 | Oscar "Slice" Broman
+[22:57:13]    
+[22:57:13]    Server Version: 0.3.7 R2
+[22:57:13]    Operating System: Windows
+[22:57:13]    Built on: Jul 19 2020 at 18:01:33
+[22:57:13]    
+[22:57:13]  ===============================
+[22:57:13] 
+[22:57:13]   Loaded.
+[22:57:13]  Loading plugin: mysql
+[22:57:13]  >> plugin.mysql: R39-6 successfully loaded.
+[22:57:13]   Loaded.
+[22:57:13]  Loading plugin: nativechecker
+[22:57:13]   Loaded.
+[22:57:13]  Loaded 9 plugins.
+
+[22:57:13] 
+[22:57:14] Filterscripts
+[22:57:14] ---------------
+[22:57:14]   Loading filterscript 'pcrpmap.amx'...
+[22:57:14] [sv:dbg:main:AmxLoad] : net game pointer (value:023B9AE8) received
+[22:57:14] [sv:dbg:network:bind] : voice server running on port 52632
+[22:57:14] AMX (46687184) loaded
+[22:57:15]   Loaded 1 filterscripts.
+
+[22:57:15] AMX (46595392) loaded
+[22:57:15] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[22:57:15] OnScriptInit 1
+[22:57:15]  
+[22:57:15]  
+[22:57:15]  
+[22:57:15]  ======================================= 
+[22:57:15]  |                                     | 
+[22:57:15]  |        YSI version 1.06.0002        | 
+[22:57:15]  |        By Alex "Y_Less" Cole        | 
+[22:57:15]  |                                     | 
+[22:57:15]  ======================================= 
+[22:57:15]  
+[22:57:15] OnScriptInit 2
+[22:57:15] OnScriptInit 3
+[22:57:15] Iter_OnGameModeInit start: 180
+[22:57:15] Nasro Fnine Roleplay
+[22:57:15] 545 objects loaded.
+[22:57:15] Iter_OnGameModeInit: first
+[22:57:15] OnScriptInit 4
+[22:57:15] Number of vehicle models: 9
+[22:57:28]  -------------------------------------------
+[22:57:28]            SampVoice unloading...           
+[22:57:28]  -------------------------------------------
+[22:57:28] [dbg:raknet:free] : module releasing...
+[22:57:28] [dbg:raknet:free] : module released
+[22:57:28] [sv:dbg:network:free] : module releasing...
+[22:57:28] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:57:33] password = ""  (string)
+[22:57:33] weburl = "www.sa-mp.com"  (string)
+[22:57:33] password = ""  (string)
+[22:57:33] 
+[22:57:33] Server Plugins
+[22:57:33] --------------
+[22:57:33]  Loading plugin: sampvoice
+[22:57:33] [sv:dbg:network:init] : module initializing...
+[22:57:33] [dbg:raknet:init] : module initializing...
+[22:57:33] [dbg:raknet:init] : module initialized
+[22:57:33] [sv:dbg:network:init] : module initialized
+[22:57:33] [sv:dbg:main:Load] : creating 2 work threads...
+[22:57:33]  -------------------------------------------    
+[22:57:33]    ___                __   __    _              
+[22:57:33]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:57:33]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:57:33]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:57:34]                   |_|                           
+[22:57:34]  -------------------------------------------    
+[22:57:34]            SampVoice by MOR loaded              
+[22:57:34]  -------------------------------------------    
+[22:57:34]   Loaded.
+[22:57:34]  Loading plugin: crashdetect
+[22:57:34]   CrashDetect plugin 4.19.4
+[22:57:34]   Loaded.
+[22:57:34]  Loading plugin: whirlpool
+[22:57:34]  
+[22:57:34]  ==================
+[22:57:34]  
+[22:57:35]   Whirlpool loaded
+[22:57:35]  
+[22:57:35]  ==================
+[22:57:35]  
+[22:57:35]   Loaded.
+[22:57:35]  Loading plugin: pawncmd
+[22:57:35] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:57:35]   Loaded.
+[22:57:35]  Loading plugin: sscanf
+[22:57:35] 
+
+[22:57:35]  ===============================
+
+[22:57:36]       sscanf plugin loaded.     
+
+[22:57:36]          Version:  2.8.1        
+
+[22:57:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:57:36]  ===============================
+
+[22:57:36]   Loaded.
+[22:57:36]  Loading plugin: streamer
+[22:57:36] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[22:57:36]   Loaded.
+[22:57:36]  Loading plugin: SKY
+[22:57:36] 
+[22:57:36]  ===============================
+[22:57:36]    
+[22:57:37]    < SKY - 2.3.0 >
+[22:57:37]    
+[22:57:37]    (c) 2008 - Present | YSF Maintainers
+[22:57:37]    (c) 2015 | Oscar "Slice" Broman
+[22:57:37]    
+[22:57:37]    Server Version: 0.3.7 R2
+[22:57:37]    Operating System: Windows
+[22:57:37]    Built on: Jul 19 2020 at 18:01:33
+[22:57:37]    
+[22:57:37]  ===============================
+[22:57:38] 
+[22:57:38]   Loaded.
+[22:57:38]  Loading plugin: mysql
+[22:57:38]  >> plugin.mysql: R39-6 successfully loaded.
+[22:57:38]   Loaded.
+[22:57:38]  Loading plugin: nativechecker
+[22:57:38]   Loaded.
+[22:57:38]  Loaded 9 plugins.
+
+[22:57:38] 
+[22:57:39] Filterscripts
+[22:57:39] ---------------
+[22:57:39]   Loading filterscript 'pcrpmap.amx'...
+[22:57:39] [sv:dbg:main:AmxLoad] : net game pointer (value:02379AE8) received
+[22:57:39] [sv:dbg:network:bind] : voice server running on port 62240
+[22:57:39] AMX (50750416) loaded
+[22:57:39]   Loaded 1 filterscripts.
+
+[22:57:39] AMX (50658624) loaded
+[22:57:39] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[22:57:39] OnScriptInit 1
+[22:57:39]  
+[22:57:39]  
+[22:57:39]  
+[22:57:39]  ======================================= 
+[22:57:39]  |                                     | 
+[22:57:39]  |        YSI version 1.06.0002        | 
+[22:57:39]  |        By Alex "Y_Less" Cole        | 
+[22:57:39]  |                                     | 
+[22:57:39]  ======================================= 
+[22:57:39]  
+[22:57:39] OnScriptInit 2
+[22:57:39] OnScriptInit 3
+[22:57:39] Iter_OnGameModeInit start: 180
+[22:57:39] Unable to establish a connection with the MySQL server...
+[22:57:39] Iter_OnGameModeInit: first
+[22:57:39] OnScriptInit 4
+[22:57:39] Number of vehicle models: 0
+[22:57:39] --- Server Shutting Down.
+[22:57:39]  -------------------------------------------
+[22:57:39]            SampVoice unloading...           
+[22:57:39]  -------------------------------------------
+[22:57:39] [dbg:raknet:free] : module releasing...
+[22:57:39] [debug] Server crashed due to an unknown error
+[22:57:39] [debug] Native backtrace:
+[22:57:39] [debug] #0 6c5cfff8 in ?? () in plugins\sampvoice.DLL
+[22:57:39] [debug] #1 6c5d46aa in ?? () in plugins\sampvoice.DLL
+[22:57:39] [debug] #2 00469dbb in ?? () in samp-server.exe
+[22:57:39] [debug] #3 0048d56f in ?? () in samp-server.exe
+[22:57:39] [debug] Registers:
+[22:57:39] [debug] EAX: 00000001 EBX: 02378a88 ECX: 0237d4c8 EDX: 004966a0
+[22:57:39] [debug] ESI: 000003e8 EDI: 000003e8 EBP: 00000000 ESP: 0019fe20
+[22:57:39] [debug] EIP: 0048d56f EFLAGS: 00010202
+[22:57:39] [debug] Stack:
+[22:57:39] [debug] ESP+00000000: 00000000 000023f0 0019ff70 003e8000
+[22:57:39] [debug] ESP+00000020: 0000025c 00000998 02379ae8 656d6167
+[22:57:39] [debug] ESP+00000040: 003e8000 004ab530 0019fe58 0019ff60
+[22:57:39] [debug] ESP+00000060: 0049b531 0049b541 004ab530 0019ff60
+[22:57:39] [debug] ESP+00000080: 023712b8 02371308 00000094 00000006
+[22:57:39] [debug] ESP+000000a0: 00000000 00000000 00000000 00000000
+[22:57:39] [debug] ESP+000000c0: 00000000 00000000 00000000 00000000
+[22:57:39] [debug] ESP+000000e0: 00000000 00000000 00000000 00000000
+[22:57:39] [debug] ESP+00000100: 00000000 00000000 00000000 00000000
+[22:57:39] [debug] ESP+00000120: 0049cbca 003e8000 00000000 00000000
+[22:57:39] [debug] ESP+00000140: 0019ffcc 0049d298 004ba530 00000000
+[22:57:39] [debug] ESP+00000160: 0019ffdc 77da72fd 003e8000 3c5a78e5
+[22:57:39] [debug] ESP+00000180: 00000000 00000000 00000000 00000000
+[22:57:39] [debug] ESP+000001a0: 00000000 0019ff8c 00000000 0019ffe4
+[22:57:39] [debug] ESP+000001c0: 77da72cd ffffffff 77dc65f5 00000000
+[22:57:39] [debug] ESP+000001e0: 78746341 00000020 00000001 00003334
+[22:57:39] [debug] ESP+00000200: 00000014 00000001 00000007 00000034
+[22:57:39] [debug] ESP+00000220: 00000000 00000000 00000000 00000002
+[22:57:39] [debug] ESP+00000240: 00000260 00000000 f33271ba 00000540
+[22:57:39] [debug] ESP+00000260: 2d59495b 000008d4 00000032 00000908
+[22:57:39] [debug] ESP+00000280: 00000042 00000c4c 00000336 00000000
+[22:57:39] [debug] ESP+000002a0: 00000368 00000000 b1280544 0000134c
+[22:57:39] [debug] ESP+000002c0: 00000009 000000ec 00000002 00000001
+[22:57:39] [debug] ESP+000002e0: 00001774 000007a0 00000001 00000003
+[22:57:39] [debug] ESP+00000300: 00002da0 00000314 00000002 00000005
+[22:57:39] [debug] ESP+00000320: 0000314c 000000cc 00000002 00000007
+[22:57:39] [debug] ESP+00000340: 00003308 00000028 00000002 0000000b
+[22:57:39] [debug] ESP+00000360: 0000002c 00000001 00000001 00000001
+[22:57:39] [debug] ESP+00000380: 0000002c 0000005e 0000005e 00000000
+[22:57:39] [debug] ESP+000003a0: 00000000 00000000 00000000 00000000
+[22:57:39] [debug] ESP+000003c0: 003a0043 0057005c 006e0069 006f0064
+[22:57:39] [debug] ESP+000003e0: 005c0073 00000000 1a26ef4e 0000011c
+[22:57:39] [debug] Loaded modules:
+[22:57:39] [debug] 00400000 - 00519000 samp-server.exe
+[22:57:39] [debug] 77d40000 - 77edc000 ntdll.dll
+[22:57:39] [debug] 753f0000 - 754d0000 KERNEL32.DLL
+[22:57:39] [debug] 757c0000 - 759bb000 KERNELBASE.dll
+[22:57:39] [debug] 76000000 - 76556000 SHELL32.dll
+[22:57:39] [debug] 75560000 - 75620000 msvcrt.dll
+[22:57:39] [debug] 75e90000 - 75ecb000 cfgmgr32.dll
+[22:57:39] [debug] 76e80000 - 76fa3000 ucrtbase.dll
+[22:57:39] [debug] 76d30000 - 76db9000 shcore.dll
+[22:57:39] [debug] 75f40000 - 75ffe000 RPCRT4.dll
+[22:57:39] [debug] 75380000 - 753a0000 SspiCli.dll
+[22:57:39] [debug] 75370000 - 7537a000 CRYPTBASE.dll
+[22:57:39] [debug] 75ed0000 - 75f35000 bcryptPrimitives.dll
+[22:57:39] [debug] 775d0000 - 77649000 sechost.dll
+[22:57:39] [debug] 77830000 - 77aa5000 combase.dll
+[22:57:39] [debug] 76fb0000 - 775af000 windows.storage.dll
+[22:57:39] [debug] 77bb0000 - 77c30000 msvcp_win.dll
+[22:57:39] [debug] 759c0000 - 75a3e000 advapi32.dll
+[22:57:39] [debug] 77810000 - 7782c000 profapi.dll
+[22:57:39] [debug] 76aa0000 - 76af4000 powrprof.dll
+[22:57:39] [debug] 753a0000 - 753e4000 shlwapi.dll
+[22:57:39] [debug] 76740000 - 76763000 GDI32.dll
+[22:57:39] [debug] 76b60000 - 76cca000 gdi32full.dll
+[22:57:39] [debug] 75620000 - 757b9000 USER32.dll
+[22:57:39] [debug] 76dd0000 - 76de7000 win32u.dll
+[22:57:39] [debug] 76940000 - 7694f000 kernel.appcore.dll
+[22:57:39] [debug] 775b0000 - 775c2000 cryptsp.dll
+[22:57:39] [debug] 6c5f0000 - 6c5f8000 WSOCK32.dll
+[22:57:39] [debug] 76cd0000 - 76d2f000 WS2_32.dll
+[22:57:39] [debug] 6fbe0000 - 6fc04000 WINMM.dll
+[22:57:39] [debug] 6fa10000 - 6fa33000 WINMMBASE.dll
+[22:57:39] [debug] 76910000 - 76935000 IMM32.DLL
+[22:57:39] [debug] 6c5c0000 - 6c5eb000 sampvoice.DLL
+[22:57:39] [debug] 6ac00000 - 6ac6d000 MSVCP140.dll
+[22:57:39] [debug] 6c5a0000 - 6c5b5000 VCRUNTIME140.dll
+[22:57:39] [debug] 6aba0000 - 6abf1000 crashdetect.DLL
+[22:57:39] [debug] 6ab30000 - 6ab99000 MSVCP100.dll
+[22:57:39] [debug] 6aa70000 - 6ab2f000 MSVCR100.dll
+[22:57:39] [debug] 6c590000 - 6c59c000 whirlpool.DLL
+[22:57:39] [debug] 6aa30000 - 6aa69000 pawncmd.DLL
+[22:57:39] [debug] 10000000 - 1000d000 sscanf.DLL
+[22:57:39] [debug] 6a9c0000 - 6aa2d000 streamer.DLL
+[22:57:39] [debug] 6a940000 - 6a9bd000 SKY.DLL
+[22:57:39] [debug] 6a8f0000 - 6a934000 mysql.DLL
+[22:57:39] [debug] 68630000 - 68b3d000 libmysql.dll
+[22:57:39] [debug] 6fb90000 - 6fb9a000 Secur32.dll
+[22:57:39] [debug] 6a8d0000 - 6a8e1000 napinsp.dll
+[22:57:39] [debug] 75200000 - 75252000 mswsock.dll
+[22:57:39] [debug] 74e50000 - 74ee1000 DNSAPI.dll
+[22:57:39] [debug] 76dc0000 - 76dc7000 NSI.dll
+[22:57:39] [debug] 6fba0000 - 6fbd3000 IPHLPAPI.DLL
+[22:57:39] [debug] 6a8c0000 - 6a8cb000 winrnr.dll
+[22:57:39] [debug] 74f10000 - 74f26000 NLAapi.dll
+[22:57:39] [debug] 6a8b0000 - 6a8c0000 wshbth.dll
+[22:57:39] [debug] 72200000 - 72208000 rasadhlp.dll
+[22:57:39] [debug] 6a8a0000 - 6a8a5000 nativechecker.DLL
+[22:57:39] [debug] 71ba0000 - 71bf1000 fwpuclnt.dll
+[22:57:39] [debug] 769b0000 - 769c9000 bcrypt.dll
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:58:06] password = ""  (string)
+[22:58:06] weburl = "www.sa-mp.com"  (string)
+[22:58:06] password = ""  (string)
+[22:58:06] 
+[22:58:06] Server Plugins
+[22:58:06] --------------
+[22:58:06]  Loading plugin: sampvoice
+[22:58:06] [sv:dbg:network:init] : module initializing...
+[22:58:06] [dbg:raknet:init] : module initializing...
+[22:58:06] [dbg:raknet:init] : module initialized
+[22:58:06] [sv:dbg:network:init] : module initialized
+[22:58:06] [sv:dbg:main:Load] : creating 2 work threads...
+[22:58:06]  -------------------------------------------    
+[22:58:06]    ___                __   __    _              
+[22:58:06]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[22:58:06]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[22:58:06]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[22:58:06]                   |_|                           
+[22:58:06]  -------------------------------------------    
+[22:58:06]            SampVoice by MOR loaded              
+[22:58:06]  -------------------------------------------    
+[22:58:06]   Loaded.
+[22:58:06]  Loading plugin: crashdetect
+[22:58:06]   CrashDetect plugin 4.19.4
+[22:58:06]   Loaded.
+[22:58:06]  Loading plugin: whirlpool
+[22:58:06]  
+[22:58:06]  ==================
+[22:58:06]  
+[22:58:06]   Whirlpool loaded
+[22:58:06]  
+[22:58:06]  ==================
+[22:58:06]  
+[22:58:06]   Loaded.
+[22:58:06]  Loading plugin: pawncmd
+[22:58:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:58:06]   Loaded.
+[22:58:06]  Loading plugin: sscanf
+[22:58:06] 
+
+[22:58:06]  ===============================
+
+[22:58:06]       sscanf plugin loaded.     
+
+[22:58:06]          Version:  2.8.1        
+
+[22:58:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:58:07]  ===============================
+
+[22:58:07]   Loaded.
+[22:58:07]  Loading plugin: streamer
+[22:58:07] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[22:58:07]   Loaded.
+[22:58:07]  Loading plugin: SKY
+[22:58:07] 
+[22:58:07]  ===============================
+[22:58:07]    
+[22:58:07]    < SKY - 2.3.0 >
+[22:58:07]    
+[22:58:08]    (c) 2008 - Present | YSF Maintainers
+[22:58:08]    (c) 2015 | Oscar "Slice" Broman
+[22:58:08]    
+[22:58:08]    Server Version: 0.3.7 R2
+[22:58:08]    Operating System: Windows
+[22:58:08]    Built on: Jul 19 2020 at 18:01:33
+[22:58:08]    
+[22:58:08]  ===============================
+[22:58:08] 
+[22:58:09]   Loaded.
+[22:58:09]  Loading plugin: mysql
+[22:58:09]  >> plugin.mysql: R39-6 successfully loaded.
+[22:58:09]   Loaded.
+[22:58:09]  Loading plugin: nativechecker
+[22:58:09]   Loaded.
+[22:58:09]  Loaded 9 plugins.
+
+[22:58:09] 
+[22:58:09] Filterscripts
+[22:58:09] ---------------
+[22:58:10]   Loading filterscript 'pcrpmap.amx'...
+[22:58:10] [sv:dbg:main:AmxLoad] : net game pointer (value:022D9AE8) received
+[22:58:10] [sv:dbg:network:bind] : voice server running on port 62241
+[22:58:10] AMX (45900752) loaded
+[22:58:10]   Loaded 1 filterscripts.
+
+[22:58:10] AMX (45808960) loaded
+[22:58:10] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[22:58:10] OnScriptInit 1
+[22:58:10]  
+[22:58:10]  
+[22:58:10]  
+[22:58:10]  ======================================= 
+[22:58:10]  |                                     | 
+[22:58:10]  |        YSI version 1.06.0002        | 
+[22:58:10]  |        By Alex "Y_Less" Cole        | 
+[22:58:10]  |                                     | 
+[22:58:10]  ======================================= 
+[22:58:10]  
+[22:58:10] OnScriptInit 2
+[22:58:10] OnScriptInit 3
+[22:58:10] Iter_OnGameModeInit start: 180
+[22:58:10] Nasro Fnine Roleplay
+[22:58:10] 545 objects loaded.
+[22:58:10] Iter_OnGameModeInit: first
+[22:58:10] OnScriptInit 4
+[22:58:10] Number of vehicle models: 9
+[22:58:10] [Script] 5 atms loaded
+[22:58:10] [Script] 2 vendors loaded
+[22:58:10] [Script] 82 houses loaded.
+[22:58:10] [Script] 0 garages loaded.
+[22:58:10] [Script] 18 businesses loaded.
+[22:58:10] [Script] 30 entrances loaded.
+[22:58:10] [Script] 9 factions loaded.
+[22:58:10] [Script] 1 gangs loaded.
+[22:58:10] [Script] 0 points loaded.
+[22:58:10] [Script] 0 turfs loaded.
+[22:58:23] [connection] incoming connection: 114.5.108.214:7791 id: 0
+[22:58:24] [sv:dbg:network:connect] : connecting player (0) with address (114.5.108.214) ...
+[22:58:24] [sv:dbg:network:connect] : player (0) assigned key (5da8939d)
+[22:58:24] [join] Shinra_Flared has joined the server (0:114.5.108.214)
+[22:58:24] > {FFFFFF}{AAAAAA}Shinra_Flared has joined the server [{33AA33}IP:{FFFFFF} 114.5.108.214]
+[22:58:38] {FFFFFF}Shinra Flared {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[22:59:02] [cmd] Shinra Flared: [ahelp]
+[22:59:07] [cmd] Shinra Flared: [atm]
+[22:59:09] [cmd] Shinra Flared: [atm]
+[22:59:31] [sv:dbg:network:connect] : disconnecting player (0) ...
+[22:59:31] [part] Shinra_Flared has left the server (0:0)
+[23:01:17]  -------------------------------------------
+[23:01:17]            SampVoice unloading...           
+[23:01:17]  -------------------------------------------
+[23:01:17] [dbg:raknet:free] : module releasing...
+[23:01:17] [dbg:raknet:free] : module released
+[23:01:17] [sv:dbg:network:free] : module releasing...
+[23:01:17] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:10:19] password = ""  (string)
+[23:10:19] weburl = "www.sa-mp.com"  (string)
+[23:10:19] password = ""  (string)
+[23:10:19] 
+[23:10:19] Server Plugins
+[23:10:19] --------------
+[23:10:19]  Loading plugin: sampvoice
+[23:10:19] [sv:dbg:network:init] : module initializing...
+[23:10:19] [dbg:raknet:init] : module initializing...
+[23:10:19] [dbg:raknet:init] : module initialized
+[23:10:19] [sv:dbg:network:init] : module initialized
+[23:10:19] [sv:dbg:main:Load] : creating 2 work threads...
+[23:10:19]  -------------------------------------------    
+[23:10:19]    ___                __   __    _              
+[23:10:20]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[23:10:20]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[23:10:20]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[23:10:20]                   |_|                           
+[23:10:20]  -------------------------------------------    
+[23:10:20]            SampVoice by MOR loaded              
+[23:10:20]  -------------------------------------------    
+[23:10:20]   Loaded.
+[23:10:20]  Loading plugin: crashdetect
+[23:10:20]   CrashDetect plugin 4.19.4
+[23:10:20]   Loaded.
+[23:10:21]  Loading plugin: whirlpool
+[23:10:21]  
+[23:10:21]  ==================
+[23:10:21]  
+[23:10:21]   Whirlpool loaded
+[23:10:21]  
+[23:10:21]  ==================
+[23:10:21]  
+[23:10:21]   Loaded.
+[23:10:21]  Loading plugin: pawncmd
+[23:10:21] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:10:21]   Loaded.
+[23:10:22]  Loading plugin: sscanf
+[23:10:22] 
+
+[23:10:22]  ===============================
+
+[23:10:22]       sscanf plugin loaded.     
+
+[23:10:22]          Version:  2.8.1        
+
+[23:10:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:10:22]  ===============================
+
+[23:10:22]   Loaded.
+[23:10:22]  Loading plugin: streamer
+[23:10:22] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:10:22]   Loaded.
+[23:10:22]  Loading plugin: SKY
+[23:10:22] 
+[23:10:23]  ===============================
+[23:10:23]    
+[23:10:23]    < SKY - 2.3.0 >
+[23:10:23]    
+[23:10:23]    (c) 2008 - Present | YSF Maintainers
+[23:10:23]    (c) 2015 | Oscar "Slice" Broman
+[23:10:23]    
+[23:10:23]    Server Version: 0.3.7 R2
+[23:10:23]    Operating System: Windows
+[23:10:23]    Built on: Jul 19 2020 at 18:01:33
+[23:10:24]    
+[23:10:24]  ===============================
+[23:10:24] 
+[23:10:24]   Loaded.
+[23:10:24]  Loading plugin: mysql
+[23:10:24]  >> plugin.mysql: R39-6 successfully loaded.
+[23:10:24]   Loaded.
+[23:10:24]  Loading plugin: nativechecker
+[23:10:25]   Loaded.
+[23:10:25]  Loaded 9 plugins.
+
+[23:10:25] 
+[23:10:25] Filterscripts
+[23:10:25] ---------------
+[23:10:26]   Loading filterscript 'pcrpmap.amx'...
+[23:10:26] [sv:dbg:main:AmxLoad] : net game pointer (value:02429AE8) received
+[23:10:26] [sv:dbg:network:bind] : voice server running on port 56238
+[23:10:26] AMX (52913104) loaded
+[23:10:26]   Loaded 1 filterscripts.
+
+[23:10:26] AMX (52821312) loaded
+[23:10:26] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[23:10:26] OnScriptInit 1
+[23:10:26]  
+[23:10:26]  
+[23:10:26]  
+[23:10:26]  ======================================= 
+[23:10:26]  |                                     | 
+[23:10:26]  |        YSI version 1.06.0002        | 
+[23:10:26]  |        By Alex "Y_Less" Cole        | 
+[23:10:26]  |                                     | 
+[23:10:26]  ======================================= 
+[23:10:26]  
+[23:10:26] OnScriptInit 2
+[23:10:26] OnScriptInit 3
+[23:10:26] Iter_OnGameModeInit start: 180
+[23:10:26] Nasro Fnine Roleplay
+[23:10:26] 545 objects loaded.
+[23:10:26] Iter_OnGameModeInit: first
+[23:10:26] OnScriptInit 4
+[23:10:26] Number of vehicle models: 9
+[23:10:26] [Script] 7 atms loaded
+[23:10:26] [Script] 34 vendors loaded
+[23:10:26] [Script] 9 mdc loaded
+[23:10:26] [Script] 0 surgery room loaded
+[23:10:26] [Script] 43 Public Garage loaded
+[23:10:26] [Script] 2 Bars loaded
+[23:10:26] [Script] 0 houses loaded.
+[23:10:26] [Script] 1 garages loaded.
+[23:10:26] [Script] 35 businesses loaded.
+[23:10:26] [Script] 53 entrances loaded.
+[23:10:26] [Script] 7 factions loaded.
+[23:10:26] [Script] 5 gangs loaded.
+[23:10:26] [Script] 15 points loaded.
+[23:10:26] [Script] 9 turfs loaded.
+[23:10:57] [connection] incoming connection: 114.5.108.214:7796 id: 0
+[23:10:58] [sv:dbg:network:connect] : connecting player (0) with address (114.5.108.214) ...
+[23:10:58] [sv:dbg:network:connect] : player (0) assigned key (8b330996)
+[23:10:58] [join] Shinra_Flared has joined the server (0:114.5.108.214)
+[23:10:58] > {FFFFFF}{AAAAAA}Shinra_Flared has joined the server [{33AA33}IP:{FFFFFF} 114.5.108.214]
+[23:11:45] AdmCmd: Shinra_Flared submitted their pending application (ID: 0).
+[23:11:45] AdmCmd:{FFFFFF} A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[23:12:10] AdmCmd:{FFFFFF} Shinra Flared has made Shinra Flared a Community Owner (7).
+[23:12:10] [cmd] Shinra Flared: [huha]
+[23:12:45] [cmd] Shinra Flared: [goto]
+[23:12:47] [cmd] Shinra Flared: [goto]
+[23:13:19] [cmd] Shinra Flared: [bank]
+[23:13:25] [cmd] Shinra Flared: [bank]
+[23:13:28] [cmd] Shinra Flared: [bank]
+[23:13:48] [cmd] Shinra Flared: [robbank]
+[23:14:05] [cmd] Shinra Flared: [robbank]
+[23:14:07] [cmd] Shinra Flared: [robbank]
+[23:14:13] [cmd] Shinra Flared: [atm]
+[23:14:33] AdmCmd:{FFFFFF} Shinra Flared has given a jetpack to Shinra Flared.
+[23:14:33] [cmd] Shinra Flared: [jetpack]
+[23:14:41] [cmd] Shinra Flared: [goto]
+[23:15:01] [cmd] Shinra Flared: [getweplic]
+[23:15:17] AdmCmd:{FFFFFF} Shinra Flared has given $50000 to Shinra Flared.
+[23:15:17] [cmd] Shinra Flared: [givemoney]
+[23:15:18] [cmd] Shinra Flared: [getweplic]
+[23:16:03] [cmd] Shinra Flared: [mdc]
+[23:17:13] [cmd] Shinra Flared: [setstat]
+[23:17:16] [cmd] Shinra Flared: [setstat]
+[23:17:22] [cmd] Shinra Flared: [setstat]
+[23:17:32] [cmd] Shinra Flared: [setstat]
+[23:17:41] [cmd] Shinra Flared: [showid]
+[23:17:55] [cmd] Shinra Flared: [setstat]
+[23:17:57] [cmd] Shinra Flared: [setstat]
+[23:17:58] [cmd] Shinra Flared: [setstat]
+[23:17:58] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:18:04] [cmd] Shinra Flared: [showid]
+[23:19:24] [cmd] Shinra Flared: [jobs]
+[23:19:39] [cmd] Shinra Flared: [setstat]
+[23:19:40] [cmd] Shinra Flared: [locate]
+[23:19:49] [cmd] Shinra Flared: [setstat]
+[23:19:51] [cmd] Shinra Flared: [phone]
+[23:20:05] [chat] [Shinra_Flared]: police
+[23:20:09] [chat] [Shinra_Flared]: halo
+[23:20:16] [cmd] Shinra Flared: [mic]
+[23:20:30] [cmd] Shinra Flared: [goto]
+[23:20:33] [cmd] Shinra Flared: [goto]
+[23:20:48] [cmd] Shinra Flared: [goto]
+[23:20:54] AdmCmd:{FFFFFF} Shinra Flared has given a jetpack to Shinra Flared.
+[23:20:54] [cmd] Shinra Flared: [jetpack]
+[23:21:15] [cmd] Shinra Flared: [goto]
+[23:21:30] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:21:30] [part] Shinra_Flared has left the server (0:0)
+[23:21:30] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:21:30] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:21:30] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:21:30] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:38:45] [connection] incoming connection: 120.188.95.210:24582 id: 0
+[23:38:46] [sv:dbg:network:connect] : connecting player (0) with address (120.188.95.210) ...
+[23:38:46] [sv:dbg:network:connect] : player (0) assigned key (59b2ae12)
+[23:38:46] [join] Leo_Prince has joined the server (0:120.188.95.210)
+[23:38:46] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[23:38:46] [sv:dbg:network:receive] : player (0) identified (port:61755)
+[23:39:26] AdmCmd: Leo_Prince submitted their pending application (ID: 0).
+[23:39:26] AdmCmd:{FFFFFF} A MySQL error occurred (error 1064). Details written to mysql_error.txt.
+[23:42:17] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:42:17] [part] Leo_Prince has left the server (0:0)
+[23:42:17] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:42:17] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:42:17] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:42:17] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:47:43] [connection] incoming connection: 120.188.95.210:24592 id: 0
+[23:47:44] [sv:dbg:network:connect] : connecting player (0) with address (120.188.95.210) ...
+[23:47:44] [sv:dbg:network:connect] : player (0) assigned key (1120bba0)
+[23:47:44] [join] Leo_Prince has joined the server (0:120.188.95.210)
+[23:47:44] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[23:47:44] [sv:dbg:network:receive] : player (0) identified (port:61758)
+[23:48:48] [sv:dbg:network:connect] : disconnecting player (0) ...
+[23:48:48] [part] Leo_Prince has left the server (0:0)
+[23:48:48] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:48:48] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:48:48] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[23:48:48] AdmCmd:{FFFFFF} A MySQL error occurred (error 1054). Details written to mysql_error.txt.
+[00:00:51]  -------------------------------------------
+[00:00:51]            SampVoice unloading...           
+[00:00:51]  -------------------------------------------
+[00:00:51] [dbg:raknet:free] : module releasing...
+[00:00:51] [dbg:raknet:free] : module released
+[00:00:51] [sv:dbg:network:free] : module releasing...
+[00:00:51] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:01:02] password = ""  (string)
+[00:01:02] weburl = "www.sa-mp.com"  (string)
+[00:01:02] password = ""  (string)
+[00:01:02] 
+[00:01:02] Server Plugins
+[00:01:02] --------------
+[00:01:02]  Loading plugin: sampvoice
+[00:01:02] [sv:dbg:network:init] : module initializing...
+[00:01:02] [dbg:raknet:init] : module initializing...
+[00:01:02] [dbg:raknet:init] : module initialized
+[00:01:02] [sv:dbg:network:init] : module initialized
+[00:01:02] [sv:dbg:main:Load] : creating 2 work threads...
+[00:01:02]  -------------------------------------------    
+[00:01:02]    ___                __   __    _              
+[00:01:02]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:01:02]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:01:02]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:01:02]                   |_|                           
+[00:01:02]  -------------------------------------------    
+[00:01:02]            SampVoice by MOR loaded              
+[00:01:02]  -------------------------------------------    
+[00:01:02]   Loaded.
+[00:01:02]  Loading plugin: crashdetect
+[00:01:02]   CrashDetect plugin 4.19.4
+[00:01:02]   Loaded.
+[00:01:02]  Loading plugin: whirlpool
+[00:01:02]  
+[00:01:03]  ==================
+[00:01:03]  
+[00:01:03]   Whirlpool loaded
+[00:01:03]  
+[00:01:03]  ==================
+[00:01:03]  
+[00:01:03]   Loaded.
+[00:01:03]  Loading plugin: pawncmd
+[00:01:03] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:01:03]   Loaded.
+[00:01:03]  Loading plugin: sscanf
+[00:01:03] 
+
+[00:01:04]  ===============================
+
+[00:01:04]       sscanf plugin loaded.     
+
+[00:01:04]          Version:  2.8.1        
+
+[00:01:04]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:01:04]  ===============================
+
+[00:01:04]   Loaded.
+[00:01:04]  Loading plugin: streamer
+[00:01:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:01:04]   Loaded.
+[00:01:04]  Loading plugin: SKY
+[00:01:04] 
+[00:01:04]  ===============================
+[00:01:05]    
+[00:01:05]    < SKY - 2.3.0 >
+[00:01:05]    
+[00:01:05]    (c) 2008 - Present | YSF Maintainers
+[00:01:05]    (c) 2015 | Oscar "Slice" Broman
+[00:01:05]    
+[00:01:05]    Server Version: 0.3.7 R2
+[00:01:05]    Operating System: Windows
+[00:01:05]    Built on: Jul 19 2020 at 18:01:33
+[00:01:06]    
+[00:01:06]  ===============================
+[00:01:06] 
+[00:01:06]   Loaded.
+[00:01:06]  Loading plugin: mysql
+[00:01:06]  >> plugin.mysql: R39-6 successfully loaded.
+[00:01:06]   Loaded.
+[00:01:06]  Loading plugin: nativechecker
+[00:01:06]   Loaded.
+[00:01:06]  Loaded 9 plugins.
+
+[00:01:07] 
+[00:01:07] Filterscripts
+[00:01:07] ---------------
+[00:01:07]   Loading filterscript 'pcrpmap.amx'...
+[00:01:07] [sv:dbg:main:AmxLoad] : net game pointer (value:024D9AE8) received
+[00:01:07] [sv:dbg:network:bind] : voice server running on port 64994
+[00:01:07] AMX (47408080) loaded
+[00:01:07]   Loaded 1 filterscripts.
+
+[00:01:07] AMX (47316288) loaded
+[00:01:07] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[00:01:07] OnScriptInit 1
+[00:01:07]  
+[00:01:07]  
+[00:01:07]  
+[00:01:07]  ======================================= 
+[00:01:07]  |                                     | 
+[00:01:07]  |        YSI version 1.06.0002        | 
+[00:01:07]  |        By Alex "Y_Less" Cole        | 
+[00:01:07]  |                                     | 
+[00:01:07]  ======================================= 
+[00:01:07]  
+[00:01:07] OnScriptInit 2
+[00:01:07] OnScriptInit 3
+[00:01:07] Iter_OnGameModeInit start: 180
+[00:01:07] Relative Comunity Roleplay
+[00:01:07] 545 objects loaded.
+[00:01:07] Iter_OnGameModeInit: first
+[00:01:07] OnScriptInit 4
+[00:01:07] Number of vehicle models: 9
+[00:01:07] [Script] 7 atms loaded
+[00:01:08] [Script] 34 vendors loaded
+[00:01:08] [Script] 9 mdc loaded
+[00:01:08] [Script] 0 surgery room loaded
+[00:01:08] [Script] 43 Public Garage loaded
+[00:01:08] [Script] 2 Bars loaded
+[00:01:08] [Script] 0 houses loaded.
+[00:01:08] [Script] 1 garages loaded.
+[00:01:08] [Script] 35 businesses loaded.
+[00:01:08] [Script] 53 entrances loaded.
+[00:01:08] [Script] 7 factions loaded.
+[00:01:08] [Script] 5 gangs loaded.
+[00:01:08] [Script] 15 points loaded.
+[00:01:08] [Script] 9 turfs loaded.
+[00:01:08] [connection] incoming connection: 120.188.95.210:24600 id: 0
+[00:01:08] [sv:dbg:network:connect] : connecting player (0) with address (120.188.95.210) ...
+[00:01:08] [sv:dbg:network:connect] : player (0) assigned key (b301deaa)
+[00:01:08] [join] Leo_Prince has joined the server (0:120.188.95.210)
+[00:01:08] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[00:01:08] [sv:dbg:network:receive] : player (0) identified (port:55842)
+[00:02:07] [connection] incoming connection: 114.5.108.214:7801 id: 1
+[00:02:08] [sv:dbg:network:connect] : connecting player (1) with address (114.5.108.214) ...
+[00:02:08] [sv:dbg:network:connect] : player (1) assigned key (72be11d7)
+[00:02:08] [join] Shinra_Flared has joined the server (1:114.5.108.214)
+[00:02:08] > {FFFFFF}{AAAAAA}Shinra_Flared has joined the server [{33AA33}IP:{FFFFFF} 114.5.108.214]
+[00:02:24] {FFFFFF}Shinra Flared {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[00:02:36] [cmd] Shinra Flared: [atm]
+[00:02:38] [cmd] Shinra Flared: [atm]
+[00:02:43] [cmd] Shinra Flared: [wat]
+[00:02:53] [cmd] Leo Prince: [taketest]
+[00:02:56] [cmd] Shinra Flared: [buy]
+[00:02:59] [cmd] Shinra Flared: [buyvehicle]
+[00:03:03] [cmd] Shinra Flared: [setstat]
+[00:03:12] [cmd] Shinra Flared: [setstat]
+[00:03:24] [cmd] Shinra Flared: [goto]
+[00:03:28] [cmd] Shinra Flared: [showid]
+[00:03:32] [cmd] Shinra Flared: [showid]
+[00:03:41] [cmd] Shinra Flared: [setstat]
+[00:03:44] [cmd] Shinra Flared: [showid]
+[00:03:52] [cmd] Shinra Flared: [showid]
+[00:04:03] [cmd] Shinra Flared: [bank]
+[00:04:18] AdmCmd:{FFFFFF} Shinra Flared has cleared the chat box.
+[00:04:18] [cmd] Shinra Flared: [cc]
+[00:04:33] [cmd] Shinra Flared: [bank]
+[00:04:41] AdmCmd:{FFFFFF} Shinra Flared has made Leo Prince a Community Owner (7).
+[00:04:41] [cmd] Shinra Flared: [makeadmin]
+[00:04:44] [cmd] Shinra Flared: [goto]
+[00:05:25] [cmd] Shinra Flared: [showid]
+[00:05:39] [sv:dbg:network:connect] : disconnecting player (1) ...
+[00:05:39] [part] Shinra_Flared has left the server (1:0)
+[00:07:05] [cmd] Leo Prince: [ahelp]
+[00:07:14] [cmd] Leo Prince: [ahelp]
+[00:07:23] [cmd] Leo Prince: [settime]
+[00:07:58]  -------------------------------------------
+[00:07:58]            SampVoice unloading...           
+[00:07:58]  -------------------------------------------
+[00:07:58] [dbg:raknet:free] : module releasing...
+[00:07:58] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:07:58] [dbg:raknet:free] : module released
+[00:07:58] [sv:dbg:network:free] : module releasing...
+[00:07:58] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:08:02] password = ""  (string)
+[00:08:02] weburl = "www.sa-mp.com"  (string)
+[00:08:02] password = ""  (string)
+[00:08:02] 
+[00:08:02] Server Plugins
+[00:08:02] --------------
+[00:08:02]  Loading plugin: sampvoice
+[00:08:02] [sv:dbg:network:init] : module initializing...
+[00:08:02] [dbg:raknet:init] : module initializing...
+[00:08:02] [dbg:raknet:init] : module initialized
+[00:08:02] [sv:dbg:network:init] : module initialized
+[00:08:02] [sv:dbg:main:Load] : creating 2 work threads...
+[00:08:02]  -------------------------------------------    
+[00:08:02]    ___                __   __    _              
+[00:08:02]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:08:02]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:08:03]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:08:03]                   |_|                           
+[00:08:03]  -------------------------------------------    
+[00:08:03]            SampVoice by MOR loaded              
+[00:08:03]  -------------------------------------------    
+[00:08:03]   Loaded.
+[00:08:03]  Loading plugin: crashdetect
+[00:08:03]   CrashDetect plugin 4.19.4
+[00:08:03]   Loaded.
+[00:08:03]  Loading plugin: whirlpool
+[00:08:03]  
+[00:08:04]  ==================
+[00:08:04]  
+[00:08:04]   Whirlpool loaded
+[00:08:04]  
+[00:08:04]  ==================
+[00:08:04]  
+[00:08:04]   Loaded.
+[00:08:04]  Loading plugin: pawncmd
+[00:08:04] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:08:04]   Loaded.
+[00:08:04]  Loading plugin: sscanf
+[00:08:04] 
+
+[00:08:05]  ===============================
+
+[00:08:05]       sscanf plugin loaded.     
+
+[00:08:05]          Version:  2.8.1        
+
+[00:08:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:08:05]  ===============================
+
+[00:08:05]   Loaded.
+[00:08:06]  Loading plugin: streamer
+[00:08:06] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:08:06]   Loaded.
+[00:08:06]  Loading plugin: SKY
+[00:08:06] 
+[00:08:06]  ===============================
+[00:08:06]    
+[00:08:06]    < SKY - 2.3.0 >
+[00:08:06]    
+[00:08:06]    (c) 2008 - Present | YSF Maintainers
+[00:08:06]    (c) 2015 | Oscar "Slice" Broman
+[00:08:06]    
+[00:08:06]    Server Version: 0.3.7 R2
+[00:08:06]    Operating System: Windows
+[00:08:06]    Built on: Jul 19 2020 at 18:01:33
+[00:08:06]    
+[00:08:06]  ===============================
+[00:08:06] 
+[00:08:06]   Loaded.
+[00:08:06]  Loading plugin: mysql
+[00:08:06]  >> plugin.mysql: R39-6 successfully loaded.
+[00:08:06]   Loaded.
+[00:08:06]  Loading plugin: nativechecker
+[00:08:06]   Loaded.
+[00:08:06]  Loaded 9 plugins.
+
+[00:08:06] 
+[00:08:06] Filterscripts
+[00:08:07] ---------------
+[00:08:07]   Loading filterscript 'pcrpmap.amx'...
+[00:08:07] [sv:dbg:main:AmxLoad] : net game pointer (value:02419AE8) received
+[00:08:07] [sv:dbg:network:bind] : voice server running on port 63021
+[00:08:07] AMX (51340240) loaded
+[00:08:07]   Loaded 1 filterscripts.
+
+[00:08:07] AMX (51248448) loaded
+[00:08:07] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[00:08:07] OnScriptInit 1
+[00:08:07]  
+[00:08:07]  
+[00:08:07]  
+[00:08:07]  ======================================= 
+[00:08:07]  |                                     | 
+[00:08:07]  |        YSI version 1.06.0002        | 
+[00:08:07]  |        By Alex "Y_Less" Cole        | 
+[00:08:07]  |                                     | 
+[00:08:07]  ======================================= 
+[00:08:07]  
+[00:08:07] OnScriptInit 2
+[00:08:07] OnScriptInit 3
+[00:08:07] Iter_OnGameModeInit start: 180
+[00:08:07] Relative Comunity Roleplay
+[00:08:07] 545 objects loaded.
+[00:08:07] Iter_OnGameModeInit: first
+[00:08:07] OnScriptInit 4
+[00:08:07] Number of vehicle models: 9
+[00:08:07] [Script] 7 atms loaded
+[00:08:08] [Script] 34 vendors loaded
+[00:08:08] [Script] 9 mdc loaded
+[00:08:08] [Script] 0 surgery room loaded
+[00:08:08] [Script] 43 Public Garage loaded
+[00:08:08] [Script] 2 Bars loaded
+[00:08:08] [Script] 0 houses loaded.
+[00:08:08] [Script] 1 garages loaded.
+[00:08:08] [Script] 35 businesses loaded.
+[00:08:08] [Script] 53 entrances loaded.
+[00:08:08] [Script] 7 factions loaded.
+[00:08:08] [Script] 5 gangs loaded.
+[00:08:08] [Script] 15 points loaded.
+[00:08:08] [Script] 9 turfs loaded.
+[00:08:11] [connection] incoming connection: 120.188.95.210:24603 id: 0
+[00:08:12] [sv:dbg:network:connect] : connecting player (0) with address (120.188.95.210) ...
+[00:08:12] [sv:dbg:network:connect] : player (0) assigned key (af4bc22b)
+[00:08:12] [join] Leo_Prince has joined the server (0:120.188.95.210)
+[00:08:12] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[00:08:23] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:08:23] [part] Leo_Prince has left the server (0:0)
+[00:08:43] [connection] incoming connection: 114.5.108.214:7802 id: 0
+[00:08:43] [sv:dbg:network:connect] : connecting player (0) with address (114.5.108.214) ...
+[00:08:43] [sv:dbg:network:connect] : player (0) assigned key (68d7d491)
+[00:08:43] [join] Shinra_Flared has joined the server (0:114.5.108.214)
+[00:08:43] > {FFFFFF}{AAAAAA}Shinra_Flared has joined the server [{33AA33}IP:{FFFFFF} 114.5.108.214]
+[00:08:56] {FFFFFF}Shinra Flared {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[00:09:06] [cmd] Shinra Flared: [showid]
+[00:09:42] [cmd] Shinra Flared: [give]
+[00:09:48] [cmd] Shinra Flared: [give]
+[00:09:52] [cmd] Shinra Flared: [give]
+[00:09:57]  -------------------------------------------
+[00:09:57]            SampVoice unloading...           
+[00:09:57]  -------------------------------------------
+[00:09:57] [dbg:raknet:free] : module releasing...
+[00:09:57] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:09:57] [dbg:raknet:free] : module released
+[00:09:57] [sv:dbg:network:free] : module releasing...
+[00:09:57] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:12:25] password = ""  (string)
+[00:12:25] weburl = "www.sa-mp.com"  (string)
+[00:12:25] password = ""  (string)
+[00:12:25] 
+[00:12:25] Server Plugins
+[00:12:25] --------------
+[00:12:25]  Loading plugin: sampvoice
+[00:12:25] [sv:dbg:network:init] : module initializing...
+[00:12:25] [dbg:raknet:init] : module initializing...
+[00:12:25] [dbg:raknet:init] : module initialized
+[00:12:25] [sv:dbg:network:init] : module initialized
+[00:12:25] [sv:dbg:main:Load] : creating 2 work threads...
+[00:12:25]  -------------------------------------------    
+[00:12:25]    ___                __   __    _              
+[00:12:26]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:12:26]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:12:26]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:12:26]                   |_|                           
+[00:12:26]  -------------------------------------------    
+[00:12:26]            SampVoice by MOR loaded              
+[00:12:26]  -------------------------------------------    
+[00:12:26]   Loaded.
+[00:12:26]  Loading plugin: crashdetect
+[00:12:26]   CrashDetect plugin 4.19.4
+[00:12:26]   Loaded.
+[00:12:27]  Loading plugin: whirlpool
+[00:12:27]  
+[00:12:27]  ==================
+[00:12:27]  
+[00:12:27]   Whirlpool loaded
+[00:12:27]  
+[00:12:27]  ==================
+[00:12:27]  
+[00:12:27]   Loaded.
+[00:12:27]  Loading plugin: pawncmd
+[00:12:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:12:27]   Loaded.
+[00:12:28]  Loading plugin: sscanf
+[00:12:28] 
+
+[00:12:28]  ===============================
+
+[00:12:28]       sscanf plugin loaded.     
+
+[00:12:28]          Version:  2.8.1        
+
+[00:12:28]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:12:28]  ===============================
+
+[00:12:28]   Loaded.
+[00:12:29]  Loading plugin: streamer
+[00:12:29] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:12:29]   Loaded.
+[00:12:29]  Loading plugin: SKY
+[00:12:30] 
+[00:12:30]  ===============================
+[00:12:30]    
+[00:12:30]    < SKY - 2.3.0 >
+[00:12:30]    
+[00:12:31]    (c) 2008 - Present | YSF Maintainers
+[00:12:31]    (c) 2015 | Oscar "Slice" Broman
+[00:12:31]    
+[00:12:31]    Server Version: 0.3.7 R2
+[00:12:32]    Operating System: Windows
+[00:12:32]    Built on: Jul 19 2020 at 18:01:33
+[00:12:32]    
+[00:12:32]  ===============================
+[00:12:32] 
+[00:12:33]   Loaded.
+[00:12:33]  Loading plugin: mysql
+[00:12:33]  >> plugin.mysql: R39-6 successfully loaded.
+[00:12:33]   Loaded.
+[00:12:33]  Loading plugin: nativechecker
+[00:12:34]   Loaded.
+[00:12:34]  Loaded 9 plugins.
+
+[00:12:34] 
+[00:12:35] Filterscripts
+[00:12:35] ---------------
+[00:12:35]   Loading filterscript 'pcrpmap.amx'...
+[00:12:35] [sv:dbg:main:AmxLoad] : net game pointer (value:022C9AE8) received
+[00:12:35] [sv:dbg:network:bind] : voice server running on port 49613
+[00:12:35] AMX (51274704) loaded
+[00:12:35]   Loaded 1 filterscripts.
+
+[00:12:36] AMX (51182912) loaded
+[00:12:36] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[00:12:36] OnScriptInit 1
+[00:12:36]  
+[00:12:36]  
+[00:12:36]  
+[00:12:36]  ======================================= 
+[00:12:36]  |                                     | 
+[00:12:36]  |        YSI version 1.06.0002        | 
+[00:12:36]  |        By Alex "Y_Less" Cole        | 
+[00:12:36]  |                                     | 
+[00:12:36]  ======================================= 
+[00:12:36]  
+[00:12:36] OnScriptInit 2
+[00:12:36] OnScriptInit 3
+[00:12:36] Iter_OnGameModeInit start: 180
+[00:12:36] Relative Comunity Roleplay
+[00:12:36] 545 objects loaded.
+[00:12:36] Iter_OnGameModeInit: first
+[00:12:36] OnScriptInit 4
+[00:12:36] Number of vehicle models: 9
+[00:12:36] [Script] 7 atms loaded
+[00:12:36] [Script] 34 vendors loaded
+[00:12:36] [Script] 9 mdc loaded
+[00:12:36] [Script] 0 surgery room loaded
+[00:12:36] [Script] 43 Public Garage loaded
+[00:12:36] [Script] 2 Bars loaded
+[00:12:36] [Script] 0 houses loaded.
+[00:12:36] [Script] 1 garages loaded.
+[00:12:36] [Script] 35 businesses loaded.
+[00:12:36] [Script] 53 entrances loaded.
+[00:12:36] [Script] 7 factions loaded.
+[00:12:36] [Script] 5 gangs loaded.
+[00:12:36] [Script] 15 points loaded.
+[00:12:36] [Script] 9 turfs loaded.
+[00:12:59] [connection] incoming connection: 114.5.108.214:7804 id: 0
+[00:13:00] [sv:dbg:network:connect] : connecting player (0) with address (114.5.108.214) ...
+[00:13:00] [sv:dbg:network:connect] : player (0) assigned key (a10d94dd)
+[00:13:00] [join] Shinra_Flared has joined the server (0:114.5.108.214)
+[00:13:00] > {FFFFFF}{AAAAAA}Shinra_Flared has joined the server [{33AA33}IP:{FFFFFF} 114.5.108.214]
+[00:13:14] {FFFFFF}Shinra Flared {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[00:13:23] [cmd] Shinra Flared: [showid]
+[00:13:33] [cmd] Shinra Flared: [setstat]
+[00:13:35] [cmd] Shinra Flared: [setstat]
+[00:13:37] [cmd] Shinra Flared: [showid]
+[00:13:45] [cmd] Shinra Flared: [showid]
+[00:14:27] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:14:27] [part] Shinra_Flared has left the server (0:0)
+[00:18:05]  -------------------------------------------
+[00:18:05]            SampVoice unloading...           
+[00:18:05]  -------------------------------------------
+[00:18:05] [dbg:raknet:free] : module releasing...
+[00:18:05] [dbg:raknet:free] : module released
+[00:18:05] [sv:dbg:network:free] : module releasing...
+[00:18:05] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:18:10] password = ""  (string)
+[00:18:10] weburl = "www.sa-mp.com"  (string)
+[00:18:10] password = ""  (string)
+[00:18:10] 
+[00:18:10] Server Plugins
+[00:18:10] --------------
+[00:18:10]  Loading plugin: sampvoice
+[00:18:10] [sv:dbg:network:init] : module initializing...
+[00:18:10] [dbg:raknet:init] : module initializing...
+[00:18:10] [dbg:raknet:init] : module initialized
+[00:18:10] [sv:dbg:network:init] : module initialized
+[00:18:10] [sv:dbg:main:Load] : creating 2 work threads...
+[00:18:10]  -------------------------------------------    
+[00:18:10]    ___                __   __    _              
+[00:18:10]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[00:18:11]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[00:18:11]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[00:18:11]                   |_|                           
+[00:18:11]  -------------------------------------------    
+[00:18:11]            SampVoice by MOR loaded              
+[00:18:11]  -------------------------------------------    
+[00:18:11]   Loaded.
+[00:18:11]  Loading plugin: crashdetect
+[00:18:11]   CrashDetect plugin 4.19.4
+[00:18:11]   Loaded.
+[00:18:11]  Loading plugin: whirlpool
+[00:18:11]  
+[00:18:12]  ==================
+[00:18:12]  
+[00:18:12]   Whirlpool loaded
+[00:18:12]  
+[00:18:12]  ==================
+[00:18:12]  
+[00:18:12]   Loaded.
+[00:18:12]  Loading plugin: pawncmd
+[00:18:12] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:18:12]   Loaded.
+[00:18:12]  Loading plugin: sscanf
+[00:18:12] 
+
+[00:18:13]  ===============================
+
+[00:18:13]       sscanf plugin loaded.     
+
+[00:18:13]          Version:  2.8.1        
+
+[00:18:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[00:18:13]  ===============================
+
+[00:18:13]   Loaded.
+[00:18:13]  Loading plugin: streamer
+[00:18:13] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:18:13]   Loaded.
+[00:18:13]  Loading plugin: SKY
+[00:18:13] 
+[00:18:13]  ===============================
+[00:18:14]    
+[00:18:14]    < SKY - 2.3.0 >
+[00:18:14]    
+[00:18:14]    (c) 2008 - Present | YSF Maintainers
+[00:18:14]    (c) 2015 | Oscar "Slice" Broman
+[00:18:14]    
+[00:18:14]    Server Version: 0.3.7 R2
+[00:18:14]    Operating System: Windows
+[00:18:14]    Built on: Jul 19 2020 at 18:01:33
+[00:18:14]    
+[00:18:15]  ===============================
+[00:18:15] 
+[00:18:15]   Loaded.
+[00:18:15]  Loading plugin: mysql
+[00:18:15]  >> plugin.mysql: R39-6 successfully loaded.
+[00:18:15]   Loaded.
+[00:18:15]  Loading plugin: nativechecker
+[00:18:15]   Loaded.
+[00:18:16]  Loaded 9 plugins.
+
+[00:18:16] 
+[00:18:16] Filterscripts
+[00:18:16] ---------------
+[00:18:16]   Loading filterscript 'pcrpmap.amx'...
+[00:18:16] [sv:dbg:main:AmxLoad] : net game pointer (value:02339AE8) received
+[00:18:17] [sv:dbg:network:bind] : voice server running on port 50107
+[00:18:17] AMX (51143632) loaded
+[00:18:17]   Loaded 1 filterscripts.
+
+[00:18:17] AMX (51051840) loaded
+[00:18:17] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[00:18:17] OnScriptInit 1
+[00:18:17]  
+[00:18:17]  
+[00:18:17]  
+[00:18:17]  ======================================= 
+[00:18:17]  |                                     | 
+[00:18:17]  |        YSI version 1.06.0002        | 
+[00:18:17]  |        By Alex "Y_Less" Cole        | 
+[00:18:17]  |                                     | 
+[00:18:17]  ======================================= 
+[00:18:17]  
+[00:18:17] OnScriptInit 2
+[00:18:17] OnScriptInit 3
+[00:18:17] Iter_OnGameModeInit start: 180
+[00:18:17] Relative Comunity Roleplay
+[00:18:17] 545 objects loaded.
+[00:18:17] Iter_OnGameModeInit: first
+[00:18:17] OnScriptInit 4
+[00:18:17] Number of vehicle models: 9
+[00:18:17] [Script] 7 atms loaded
+[00:18:17] [Script] 34 vendors loaded
+[00:18:17] [Script] 9 mdc loaded
+[00:18:17] [Script] 0 surgery room loaded
+[00:18:17] [Script] 43 Public Garage loaded
+[00:18:17] [Script] 2 Bars loaded
+[00:18:17] [Script] 0 houses loaded.
+[00:18:17] [Script] 1 garages loaded.
+[00:18:17] [Script] 35 businesses loaded.
+[00:18:17] [Script] 53 entrances loaded.
+[00:18:17] [Script] 7 factions loaded.
+[00:18:17] [Script] 5 gangs loaded.
+[00:18:17] [Script] 15 points loaded.
+[00:18:17] [Script] 9 turfs loaded.
+[00:18:42] [connection] incoming connection: 114.5.108.214:7806 id: 0
+[00:18:43] [sv:dbg:network:connect] : connecting player (0) with address (114.5.108.214) ...
+[00:18:43] [sv:dbg:network:connect] : player (0) assigned key (cec75a01)
+[00:18:43] [join] Shinra_Flared has joined the server (0:114.5.108.214)
+[00:18:43] > {FFFFFF}{AAAAAA}Shinra_Flared has joined the server [{33AA33}IP:{FFFFFF} 114.5.108.214]
+[00:18:54] {FFFFFF}Shinra Flared {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[00:19:04] [cmd] Shinra Flared: [showid]
+[00:19:16] [cmd] Shinra Flared: [setstat]
+[00:19:19] [cmd] Shinra Flared: [showid]
+[00:19:31] [cmd] Shinra Flared: [slap]
+[00:19:33] [cmd] Shinra Flared: [slap]
+[00:19:42] [cmd] Shinra Flared: [goto]
+[00:19:52] [cmd] Shinra Flared: [give]
+[00:20:00] [cmd] Shinra Flared: [setfaction]
+[00:20:07] [cmd] Shinra Flared: [setstaff]
+[00:20:11] [cmd] Shinra Flared: [setstaff]
+[00:20:15] AdmCmd:{FFFFFF} Shinra Flared has made Shinra Flared a faction moderator.
+[00:20:15] [cmd] Shinra Flared: [setstaff]
+[00:20:22] [cmd] Shinra Flared: [setfaction]
+[00:20:28] [cmd] Shinra Flared: [faction]
+[00:20:29] [cmd] Shinra Flared: [factions]
+[00:20:51] [cmd] Shinra Flared: [setfaction]
+[00:20:55] [cmd] Shinra Flared: [setfaction]
+[00:20:59] AdmCmd:{FFFFFF} Shinra Flared has made Shinra Flared a Mayor in National Governemt.
+[00:20:59] [cmd] Shinra Flared: [setfaction]
+[00:21:05] [cmd] Shinra Flared: [factionhelp]
+[00:21:14] [cmd] Shinra Flared: [flash]
+[00:21:21] [cmd] Shinra Flared: [division]
+[00:21:29] [cmd] Shinra Flared: [division]
+[00:21:54] [cmd] Shinra Flared: [help]
+[00:22:41] [cmd] Shinra Flared: [rules]
+[00:22:48] [cmd] Shinra Flared: [animhelp]
+[00:23:08] [cmd] Shinra Flared: [animhelp]
+[00:23:21] [cmd] Shinra Flared: [animhelp]
+[00:23:34] [sv:dbg:network:connect] : disconnecting player (0) ...
+[00:23:34] [part] Shinra_Flared has left the server (0:0)
+[01:50:48] [connection] incoming connection: 120.188.95.23:29952 id: 0
+[01:50:49] [sv:dbg:network:connect] : connecting player (0) with address (120.188.95.23) ...
+[01:50:49] [sv:dbg:network:connect] : player (0) assigned key (ae32eb4d)
+[01:50:49] [join] Jayden_Mogilevichy has joined the server (0:120.188.95.23)
+[01:50:49] > {FFFFFF}{AAAAAA}Jayden_Mogilevi has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.23]
+[01:50:49] [sv:dbg:network:receive] : player (0) identified (port:55252)
+[01:52:02] AdmCmd: Jayden_Mogilevichy submitted their pending application (ID: 0).
+[01:52:29] [connection] incoming connection: 120.188.95.210:26057 id: 1
+[01:52:30] [sv:dbg:network:connect] : connecting player (1) with address (120.188.95.210) ...
+[01:52:30] [sv:dbg:network:connect] : player (1) assigned key (162a25de)
+[01:52:30] [join] Leo_Prince has joined the server (1:120.188.95.210)
+[01:52:30] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[01:52:30] [sv:dbg:network:receive] : player (1) identified (port:57300)
+[01:52:33] [sv:dbg:network:connect] : disconnecting player (0) ...
+[01:52:33] [part] Jayden_Mogilevichy has left the server (0:0)
+[01:53:01] {FFFFFF}Leo Prince {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[01:53:09] [connection] incoming connection: 120.188.95.23:29998 id: 0
+[01:53:09] [sv:dbg:network:connect] : connecting player (0) with address (120.188.95.23) ...
+[01:53:09] [sv:dbg:network:connect] : player (0) assigned key (2aecee79)
+[01:53:09] [join] Jayden_Mogilevichy has joined the server (0:120.188.95.23)
+[01:53:09] > {FFFFFF}{AAAAAA}Jayden_Mogilevi has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.23]
+[01:53:32] [cmd] Jayden Mogilevichy: [huha]
+[01:53:35] AdmCmd:{FFFFFF} Leo Prince has made Jayden Mogilevichy a Community Owner (7).
+[01:53:35] [cmd] Leo Prince: [makeadmin]
+[01:53:37] AdmCmd:{FFFFFF} Jayden Mogilevichy has made Jayden Mogilevichy a Community Owner (7).
+[01:53:37] [cmd] Jayden Mogilevichy: [huha]
+[01:53:44] [cmd] Leo Prince: [a]
+[01:53:51] [cmd] Jayden Mogilevichy: [a]
+[01:53:54] [cmd] Jayden Mogilevichy: [goto]
+[01:53:55] [cmd] Leo Prince: [a]
+[01:54:00] [chat] [Leo_Prince]: yo nigga
+[01:54:07] [chat] [Jayden_Mogilevichy]: gblk rasjs
+[01:54:14] [cmd] Leo Prince: [ahelp]
+[01:54:17] [chat] [Jayden_Mogilevichy]: ganti skin gimana
+[01:54:28] [cmd] Jayden Mogilevichy: [ahelp]
+[01:54:32] [cmd] Leo Prince: [setskin]
+[01:54:41] [chat] [Jayden_Mogilevichy]: gimana itu
+[01:54:44] [cmd] Leo Prince: [adminname]
+[01:54:50] [cmd] Leo Prince: [a]
+[01:54:52] [chat] [Jayden_Mogilevichy]: buru mau gua bataj??
+[01:54:55] [chat] [Leo_Prince]: setskin
+[01:55:01] [cmd] Jayden Mogilevichy: [setskin]
+[01:55:08] [cmd] Leo Prince: [adminname]
+[01:55:11] [cmd] Jayden Mogilevichy: [setskin]
+[01:55:15] AdmCmd:{FFFFFF} Leo_Prince changed their administrator name to Leo.
+[01:55:15] [cmd] Leo Prince: [adminname]
+[01:55:18] [cmd] Leo Prince: [a]
+[01:55:28] [cmd] Jayden Mogilevichy: [a]
+[01:55:35] [cmd] Leo Prince: [a]
+[01:55:45] [cmd] Leo Prince: [setskin]
+[01:55:50] [cmd] Jayden Mogilevichy: [adminname]
+[01:55:50] [cmd] Leo Prince: [sexy]
+[01:56:00] AdmCmd:{FFFFFF} Jayden_Mogilevichy changed their administrator name to Chappis.
+[01:56:00] [cmd] Jayden Mogilevichy: [adminname]
+[01:56:06] AdmCmd:{FFFFFF} Jayden Mogilevichy is now on admin duty.
+[01:56:06] [nick] Jayden_Mogilevichy nick changed to Chappis
+[01:56:06] [cmd] Chappis: [aduty]
+[01:56:12] AdmCmd:{FFFFFF} Leo Prince is now on admin duty.
+[01:56:12] [nick] Leo_Prince nick changed to Leo
+[01:56:12] [cmd] Leo: [aduty]
+[01:56:20] [cmd] Leo: [spank]
+[01:56:22] [cmd] Leo: [spank]
+[01:56:24] [cmd] Leo: [spank]
+[01:56:27] AdmCmd:{FFFFFF} Chappis spawned a ZR-350.
+[01:56:27] [cmd] Chappis: [veh]
+[01:56:42] [chat] [Chappis]: awas bgo
+[01:56:45] [chat] [Leo]: id berapa
+[01:56:45] [chat] [Chappis]: naik
+[01:56:48] [chat] [Chappis]: 477
+[01:57:01] [chat] [Leo]: coba ss
+[01:57:06] AdmCmd:{FFFFFF} Chappis has cleared the chat box.
+[01:57:06] [cmd] Chappis: [cc]
+[01:57:07] [chat] [Leo]: di jalan
+[01:57:20] [chat] [Leo]: ss
+[01:57:23] AdmCmd:{FFFFFF} Chappis has cleared the chat box.
+[01:57:23] [cmd] Chappis: [cc]
+[01:57:26] AdmCmd:{FFFFFF} Chappis has cleared the chat box.
+[01:57:26] [cmd] Chappis: [cc]
+[01:57:41] [chat] [Leo]: acc.,inter pm,me
+[01:57:43] [sv:dbg:network:connect] : disconnecting player (0) ...
+[01:57:43] [nick] Chappis nick changed to Jayden_Mogilevichy
+[01:57:43] [part] Jayden_Mogilevichy has left the server (0:0)
+[01:58:04] [connection] incoming connection: 120.188.95.23:32985 id: 0
+[01:58:05] [sv:dbg:network:connect] : connecting player (0) with address (120.188.95.23) ...
+[01:58:05] [sv:dbg:network:connect] : player (0) assigned key (9531a286)
+[01:58:05] [join] Chappis has joined the server (0:120.188.95.23)
+[01:58:05] > {FFFFFF}{AAAAAA}Chappis has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.23]
+[01:58:15] [sv:dbg:network:connect] : disconnecting player (0) ...
+[01:58:15] [part] Chappis has left the server (0:0)
+[01:58:48] [connection] incoming connection: 180.245.91.132:47202 id: 0
+[01:58:48] [sv:dbg:network:connect] : connecting player (0) with address (180.245.91.132) ...
+[01:58:48] [sv:dbg:network:connect] : player (0) assigned key (d443a693)
+[01:58:48] [join] Alfian_Alif has joined the server (0:180.245.91.132)
+[01:58:48] > {FFFFFF}{AAAAAA}Alfian_Alif has joined the server [{33AA33}IP:{FFFFFF} 180.245.91.132]
+[01:58:49] [sv:dbg:network:receive] : player (0) identified (port:49795)
+[01:59:08] [connection] incoming connection: 120.188.95.23:34419 id: 2
+[01:59:08] [sv:dbg:network:connect] : connecting player (2) with address (120.188.95.23) ...
+[01:59:08] [sv:dbg:network:connect] : player (2) assigned key (ed64f02f)
+[01:59:08] [join] Jayden_Mogilevichy has joined the server (2:120.188.95.23)
+[01:59:08] > {FFFFFF}{AAAAAA}Jayden_Mogilevi has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.23]
+[01:59:09] [sv:dbg:network:receive] : player (2) identified (port:55265)
+[01:59:23] {FFFFFF}Jayden Mogilevichy {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[01:59:47] AdmCmd: Alfian_Alif submitted their pending application (ID: 0).
+[01:59:52] [cmd] Alfian Alif: [aduty]
+[02:00:52] AdmCmd:{FFFFFF} Jayden Mogilevichy is now on admin duty.
+[02:00:52] [nick] Jayden_Mogilevichy nick changed to Chappis
+[02:00:52] [cmd] Chappis: [aduty]
+[02:01:06] [chat] [Alfian_Alif]: set
+[02:01:15] [chat] [Alfian_Alif]: om leo set
+[02:01:20] [chat] [Leo]: wait
+[02:01:20] [chat] [Alfian_Alif]: om leo set
+[02:01:24] [chat] [Alfian_Alif]: oke om
+[02:01:28] AdmCmd:{FFFFFF} Leo has made Alfian Alif a Head Admin (5).
+[02:01:28] [cmd] Leo: [makeadmin]
+[02:01:34] [chat] [Leo]: dah
+[02:01:37] [chat] [Alfian_Alif]: makasih ok leo
+[02:01:41] [chat] [Alfian_Alif]: lopyu emuach
+[02:01:44] AdmCmd:{FFFFFF} Alfian Alif is now on admin duty.
+[02:01:44] [cmd] Alfian Alif: [aduty]
+[02:02:00] AdmCmd:{FFFFFF} Alfian Alif spawned a Elegy.
+[02:02:00] [cmd] Alfian Alif: [veh]
+[02:02:07] [cmd] Alfian Alif: [v]
+[02:02:08] AdmCmd:{FFFFFF} Chappis spawned a Elegy.
+[02:02:08] [cmd] Chappis: [veh]
+[02:02:15] [cmd] Alfian Alif: [a]
+[02:02:17] [cmd] Chappis: [engine]
+[02:02:24] [cmd] Alfian Alif: [v]
+[02:02:28] [cmd] Chappis: [a]
+[02:02:31] [cmd] Alfian Alif: [engine]
+[02:02:36] [cmd] Alfian Alif: [a]
+[02:02:42] [chat] [Chappis]: leo sini
+[02:02:43] [chat] [Leo]: cok
+[02:02:47] [chat] [Chappis]: sini mk liat gua drif
+[02:02:48] [chat] [Chappis]: naim
+[02:03:18] AdmCmd:{FFFFFF} Leo has given a AK-47 to Leo.
+[02:03:18] [cmd] Leo: [givegun]
+[02:03:21] [cmd] Alfian Alif: [a]
+[02:03:25] [cmd] Chappis: [givegun]
+[02:03:32] [cmd] Leo: [a]
+[02:03:32] [cmd] Alfian Alif: [a]
+[02:03:33] AdmCmd:{FFFFFF} Chappis has given a Deagle to Chappis.
+[02:03:33] [cmd] Chappis: [givegun]
+[02:03:46] [cmd] Alfian Alif: [givegun]
+[02:04:11] AdmCmd:{FFFFFF} Alfian Alif has given a Bat to Alfian Alif.
+[02:04:11] [cmd] Alfian Alif: [givegun]
+[02:04:28] AdmCmd:{FFFFFF} Alfian Alif has given a Purple dildo to Alfian Alif.
+[02:04:28] [cmd] Alfian Alif: [givegun]
+[02:04:29] [chat] [Chappis]: nl ajtl aim
+[02:04:34] [chat] [Chappis]: no auto aim sini
+[02:04:35] [cmd] Alfian Alif: [givegun]
+[02:04:39] [cmd] Alfian Alif: [givegun]
+[02:04:40] [chat] [Chappis]: oke/mm
+[02:04:43] [chat] [Chappis]: no,auto ajm
+[02:04:46] AdmCmd:{FFFFFF} Alfian Alif has given a Purple dildo to Alfian Alif.
+[02:04:46] [cmd] Alfian Alif: [givegun]
+[02:05:05] [cmd] Chappis: [a]
+[02:06:09] [sv:dbg:network:connect] : disconnecting player (1) ...
+[02:06:09] [nick] Leo nick changed to Leo_Prince
+[02:06:09] [part] Leo_Prince has left the server (1:0)
+[02:06:48] [cmd] Chappis: [getweplic]
+[02:06:57] [cmd] Alfian Alif: [getweplic]
+[02:07:00] [cmd] Chappis: [mdc]
+[02:07:04] [chat] [Alfian_Alif]: udah order
+[02:07:08] [cmd] Alfian Alif: [mdc]
+[02:07:20] [cmd] Chappis: [a]
+[02:07:25] [cmd] Chappis: [a]
+[02:07:28] [cmd] Alfian Alif: [a]
+[02:07:38] [cmd] Chappis: [ahelp]
+[02:08:19] [cmd] Chappis: [mdc]
+[02:08:22] [connection] incoming connection: 120.188.95.210:26064 id: 1
+[02:08:24] [sv:dbg:network:connect] : connecting player (1) with address (120.188.95.210) ...
+[02:08:24] [sv:dbg:network:connect] : player (1) assigned key (2cef3978)
+[02:08:24] [join] Leo_Prince has joined the server (1:120.188.95.210)
+[02:08:24] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[02:08:24] [sv:dbg:network:receive] : player (1) identified (port:57308)
+[02:08:35] {FFFFFF}Leo Prince {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[02:08:44] AdmCmd:{FFFFFF} Leo Prince is now on admin duty.
+[02:08:44] [nick] Leo_Prince nick changed to Leo
+[02:08:44] [cmd] Leo: [aduty]
+[02:08:45] [cmd] Chappis: [a]
+[02:08:48] [cmd] Leo: [goto]
+[02:08:52] [cmd] Chappis: [a]
+[02:09:06] [chat] [Chappis]: set jadi pd coba
+[02:09:07] [cmd] Leo: [ahelp]
+[02:09:08] [sv:dbg:network:connect] : disconnecting player (0) ...
+[02:09:08] [part] Alfian_Alif has left the server (0:0)
+[02:09:21] [cmd] Chappis: [invite]
+[02:09:24] [cmd] Chappis: [invite]
+[02:09:35] [chat] [Leo]: cmd
+[02:09:36] [connection] incoming connection: 118.99.115.49:50299 id: 0
+[02:09:37] [join] John_Luxe has joined the server (0:118.99.115.49)
+[02:09:37] > {FFFFFF}{AAAAAA}John_Luxe has joined the server [{33AA33}IP:{FFFFFF} 118.99.115.49]
+[02:09:41] [chat] [Chappis]: memek
+[02:09:49] [cmd] Leo: [setfaction]
+[02:09:49] [cmd] Chappis: [atm]
+[02:10:10] [cmd] Chappis: [atm]
+[02:10:15] [cmd] Chappis: [gethere]
+[02:10:15] AdmCmd: John_Luxe submitted their pending application (ID: 0).
+[02:10:18] [cmd] Chappis: [gethere]
+[02:10:25] [chat] [John_Luxe]: set admin
+[02:10:27] [chat] [John_Luxe]: kontol
+[02:10:28] [chat] [Chappis]: set leader apa
+[02:10:31] [chat] [Chappis]: cmd nya
+[02:10:34] [chat] [John_Luxe]: admin anj
+[02:10:41] AdmCmd:{FFFFFF} Leo has made John Luxe a Community Owner (7).
+[02:10:41] [cmd] Leo: [makeadmin]
+[02:10:42] [cmd] Chappis: [b]
+[02:10:47] [chat] [Leo]: dah
+[02:10:55] [chat] [Chappis]: cmd leader apaan anj
+[02:10:58] [chat] [John_Luxe]: ini,cek,apa
+[02:10:59] [chat] [Leo]: gatau
+[02:11:01] [chat] [John_Luxe]: kentot
+[02:11:16] [cmd] John Luxe: [givegun]
+[02:11:24] AdmCmd:{FFFFFF} Leo has given a AK-47 to Leo.
+[02:11:24] [cmd] Leo: [givegun]
+[02:11:29] AdmCmd:{FFFFFF} John Luxe has given a  to John Luxe.
+[02:11:29] [cmd] John Luxe: [givegun]
+[02:11:45] [cmd] John Luxe: [revive]
+[02:11:51] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:11:51] [cmd] John Luxe: [revive]
+[02:11:59] AdmCmd:{FFFFFF} John Luxe has given a  to John Luxe.
+[02:11:59] [cmd] John Luxe: [givegun]
+[02:12:07] AdmCmd:{FFFFFF} John Luxe has given a Deagle to John Luxe.
+[02:12:07] [cmd] John Luxe: [givegun]
+[02:12:12] [chat] [Chappis]: down
+[02:12:17] [chat] [Chappis]: anj
+[02:12:19] [cmd] Chappis: [kill]
+[02:12:30] [chat] [Chappis]: ayo da serius
+[02:12:46] [chat] [John_Luxe]: <
+[02:12:49] [chat] [John_Luxe]: by daa
+[02:12:59] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:12:59] [cmd] John Luxe: [revive]
+[02:13:06] [cmd] Leo: [a]
+[02:13:16] AdmCmd:{FFFFFF} John Luxe has given a Minigun to John Luxe.
+[02:13:16] [cmd] John Luxe: [givegun]
+[02:13:31] [connection] incoming connection: 114.125.72.176:38991 id: 3
+[02:13:31] [join] Ilmi has joined the server (3:114.125.72.176)
+[02:13:31] > {FFFFFF}{AAAAAA}Ilmi has joined the server [{33AA33}IP:{FFFFFF} 114.125.72.176]
+[02:13:36] [sv:dbg:network:connect] : disconnecting player (1) ...
+[02:13:36] [nick] Leo nick changed to Leo_Prince
+[02:13:36] [part] Leo_Prince has left the server (1:0)
+[02:13:37] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:13:37] [cmd] John Luxe: [revive]
+[02:13:49] [chat] [John_Luxe]: auto im anj
+[02:13:50] [chat] [John_Luxe]: kontol
+[02:13:53] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:13:53] [cmd] John Luxe: [revive]
+[02:13:59] {FF0000}AdmWarning: Ilmi{FFFFFF}[3] is requesting a namechange to Oceana_Skyrumi. (/acceptname 3 or /denyname 3)
+[02:13:59] [chat] [John_Luxe]: kontol
+[02:14:03] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:14:03] [cmd] John Luxe: [revive]
+[02:14:12] AdmCmd:{FFFFFF} John Luxe has given a Minigun to John Luxe.
+[02:14:12] [cmd] John Luxe: [givegun]
+[02:14:12] [cmd] Chappis: [acceptname]
+[02:14:15] AdmCmd:{FFFFFF} Chappis has accepted Ilmi's free namechange to Oceana_Skyrumi.
+[02:14:15] [nick] Ilmi nick changed to Oceana_Skyrumi
+[02:14:15] [cmd] Chappis: [acceptname]
+[02:14:16] [connection] incoming connection: 120.188.95.210:26070 id: 1
+[02:14:17] [sv:dbg:network:connect] : connecting player (1) with address (120.188.95.210) ...
+[02:14:17] [sv:dbg:network:connect] : player (1) assigned key (fd96e734)
+[02:14:17] [join] Leo_Prince has joined the server (1:120.188.95.210)
+[02:14:17] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[02:14:17] [sv:dbg:network:receive] : player (1) identified (port:57312)
+[02:14:22] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:14:22] [cmd] John Luxe: [revive]
+[02:14:27] {FFFFFF}Leo Prince {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[02:14:32] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:14:32] [cmd] John Luxe: [revive]
+[02:14:37] [cmd] Leo Prince: [goto]
+[02:14:39] AdmCmd:{FFFFFF} John Luxe has given a Minigun to John Luxe.
+[02:14:39] [cmd] John Luxe: [givegun]
+[02:14:47] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:14:47] [cmd] John Luxe: [revive]
+[02:14:50] [cmd] Leo Prince: [a]
+[02:14:57] [part] Oceana_Skyrumi has left the server (3:0)
+[02:14:59] [cmd] John Luxe: [sethp]
+[02:15:01] AdmCmd:{FFFFFF} Leo Prince has given a AK-47 to Leo Prince.
+[02:15:01] [cmd] Leo Prince: [givegun]
+[02:15:05] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:15:05] [cmd] John Luxe: [revive]
+[02:15:11] [cmd] John Luxe: [sethp]
+[02:15:15] [connection] incoming connection: 114.125.72.176:39615 id: 3
+[02:15:16] [join] Ilmi has joined the server (3:114.125.72.176)
+[02:15:16] > {FFFFFF}{AAAAAA}Ilmi has joined the server [{33AA33}IP:{FFFFFF} 114.125.72.176]
+[02:15:17] [cmd] John Luxe: [sethp]
+[02:15:22] [cmd] Chappis: [a]
+[02:15:28] [cmd] Chappis: [a]
+[02:15:34] [chat] [Chappis]: ampun
+[02:15:35] [chat] [Chappis]: ampun
+[02:15:40] [chat] [Chappis]: ampun
+[02:15:52] [chat] [Chappis]: MPUN AJ
+[02:15:56] {FF0000}AdmWarning: Ilmi{FFFFFF}[3] is requesting a namechange to Oceana_Skyrumi. (/acceptname 3 or /denyname 3)
+[02:16:10] AdmCmd:{FFFFFF} Leo Prince has accepted Ilmi's free namechange to Oceana_Skyrumi.
+[02:16:10] [nick] Ilmi nick changed to Oceana_Skyrumi
+[02:16:10] [cmd] Leo Prince: [acceptname]
+[02:16:20] [cmd] Chappis: [goto]
+[02:16:26] [cmd] Leo Prince: [revive]
+[02:16:33] [cmd] John Luxe: [goto]
+[02:16:35] [cmd] Leo Prince: [goto]
+[02:16:42] [cmd] John Luxe: [sethp]
+[02:16:42] [cmd] Leo Prince: [goto]
+[02:16:46] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:16:46] [cmd] John Luxe: [revive]
+[02:16:48] [cmd] Chappis: [a]
+[02:16:49] [chat] [Leo_Prince]: wadepak
+[02:16:50] [chat] [John_Luxe]: mana
+[02:16:56] [cmd] John Luxe: [ahelp]
+[02:17:06] [cmd] John Luxe: [revive]
+[02:17:08] AdmCmd:{FFFFFF} Leo Prince has revived Leo Prince
+[02:17:08] [cmd] Leo Prince: [revive]
+[02:17:09] [cmd] John Luxe: [revive]
+[02:17:15] AdmCmd:{FFFFFF} Leo Prince is now on admin duty.
+[02:17:15] [nick] Leo_Prince nick changed to Leo
+[02:17:15] [cmd] Leo: [aduty]
+[02:17:19] [cmd] Leo: [goto]
+[02:17:29] [cmd] Leo: [goto]
+[02:17:43] [cmd] Leo: [sethp]
+[02:18:01] [chat] [Chappis]: guagedik
+[02:18:11] AdmCmd:{FFFFFF} Leo has given a AK-47 to Leo.
+[02:18:11] [cmd] Leo: [givegun]
+[02:18:12] [cmd] Chappis: [goto]
+[02:18:20] [cmd] Leo: [goto]
+[02:18:21] AdmCmd:{FFFFFF} John Luxe has revived John Luxe
+[02:18:21] [cmd] John Luxe: [revive]
+[02:18:27] [cmd] John Luxe: [kick]
+[02:18:27] [sv:dbg:network:connect] : disconnecting player (2) ...
+[02:18:27] [nick] Chappis nick changed to Jayden_Mogilevichy
+[02:18:27] [part] Jayden_Mogilevichy has left the server (2:2)
+[02:18:39] [cmd] Leo: [goto]
+[02:18:44] [cmd] Leo: [goto]
+[02:18:51] [chat] [John_Luxe]: mmpus wkwk
+[02:19:15] [cmd] Leo: [gethere]
+[02:19:20] [chat] [John_Luxe]: tsst sana
+[02:19:21] [chat] [Leo]: wtf
+[02:19:24] [chat] [John_Luxe]: test bug
+[02:20:09] [part] Oceana_Skyrumi has left the server (3:0)
+[02:20:32] [cmd] John Luxe: [ahelp]
+[02:21:18] [connection] incoming connection: 114.125.72.176:44972 id: 2
+[02:21:19] [join] Oceana_Skyrumi has joined the server (2:114.125.72.176)
+[02:21:19] > {FFFFFF}{AAAAAA}Oceana_Skyrumi has joined the server [{33AA33}IP:{FFFFFF} 114.125.72.176]
+[02:21:29] AdmCmd:{FFFFFF} Leo has cleared the chat box.
+[02:21:29] [cmd] Leo: [cc]
+[02:21:41] [chat] [John_Luxe]: diem dulu
+[02:21:45] [chat] [John_Luxe]: lgi urus mba ilmi
+[02:21:49] [cmd] John Luxe: [ahelp]
+[02:22:00] [chat] [Leo]: kenapa dia
+[02:22:04] [cmd] John Luxe: [goto]
+[02:22:09] [chat] [John_Luxe]: lah wkwl
+[02:22:16] [chat] [John_Luxe]: karakternya
+[02:22:23] [cmd] Leo: [goto]
+[02:22:28] [chat] [Leo]: nigga
+[02:22:30] [chat] [John_Luxe]: wkwk
+[02:22:32] [chat] [Leo]: hahaha
+[02:22:34] [chat] [John_Luxe]: halo mba
+[02:22:40] [chat] [Leo]: you so black dude
+[02:22:41] AdmCmd: Oceana_Skyrumi submitted their pending application (ID: 2).
+[02:22:50] [chat] [Oceana_Skyrumi]: aku jelek amat
+[02:22:51] [chat] [Leo]: apa ya skin id cewe
+[02:22:53] [chat] [John_Luxe]: wkww
+[02:22:55] [chat] [John_Luxe]: wwait
+[02:22:56] [cmd] Leo: [setskin]
+[02:23:01] [chat] [John_Luxe]: wkwk
+[02:23:03] [chat] [Leo]: hmmm
+[02:23:06] [chat] [John_Luxe]: set admin leo
+[02:23:12] [cmd] John Luxe: [makeadmin]
+[02:23:14] [chat] [Oceana_Skyrumi]: jangan ini
+[02:23:15] [chat] [Leo]: coba /a
+[02:23:16] AdmCmd:{FFFFFF} John Luxe has made Oceana Skyrumi a Community Owner (7).
+[02:23:16] [cmd] John Luxe: [makeadmin]
+[02:23:21] [chat] [Oceana_Skyrumi]: seksi kalii njir
+[02:23:21] [chat] [Leo]: perasaan udah di set
+[02:23:24] [cmd] Leo: [a]
+[02:23:26] [cmd] John Luxe: [n]
+[02:23:30] [cmd] John Luxe: [n]
+[02:23:31] AdmCmd:{FFFFFF} Leo has made Oceana Skyrumi a Community Owner (7).
+[02:23:31] [cmd] Leo: [makeadmin]
+[02:23:36] AdmCmd:{FFFFFF} Leo has made John Luxe a Community Owner (7).
+[02:23:36] [cmd] Leo: [makeadmin]
+[02:23:39] [cmd] John Luxe: [b]
+[02:23:46] [cmd] John Luxe: [a]
+[02:23:50] [chat] [Leo]: id berapa mbak skinnya
+[02:23:54] [chat] [John_Luxe]: bisa geram ga mba!
+[02:23:59] [chat] [John_Luxe]: gerak?
+[02:24:05] [cmd] Leo: [a]
+[02:24:08] [chat] [John_Luxe]: bisa?
+[02:24:11] [chat] [Leo]: bisa
+[02:24:18] [chat] [Oceana_Skyrumi]: gabisa haha
+[02:24:22] [chat] [Oceana_Skyrumi]: ohbisa
+[02:24:24] [chat] [John_Luxe]: gbisa kan!
+[02:24:27] [chat] [Leo]: bisa
+[02:24:30] [chat] [John_Luxe]: astaga
+[02:24:34] [chat] [Leo]: WOAKWOKOKA
+[02:24:36] [cmd] John Luxe: [b]
+[02:24:42] [chat] [Oceana_Skyrumi]: ganti baju wkk
+[02:24:43] [cmd] John Luxe: [b]
+[02:24:45] [cmd] Oceana Skyrumi: [a]
+[02:24:49] [cmd] John Luxe: [setskin]
+[02:24:51] [chat] [Leo]: baju id berapa
+[02:24:52] [chat] [Oceana_Skyrumi]: cmd apa
+[02:24:54] [cmd] John Luxe: [setskin]
+[02:24:58] [cmd] Leo: [b]
+[02:25:03] [chat] [Oceana_Skyrumi]: cmd duty
+[02:25:03] [cmd] John Luxe: [setskin]
+[02:25:06] [chat] [John_Luxe]: nH
+[02:25:09] [chat] [John_Luxe]: CANGTIP
+[02:25:13] [chat] [Oceana_Skyrumi]: udah leo
+[02:25:29] [chat] [John_Luxe]: AYO MB review
+[02:25:34] [chat] [Oceana_Skyrumi]: ok
+[02:25:44] AdmCmd:{FFFFFF} John Luxe spawned a Elegy.
+[02:25:44] [cmd] John Luxe: [veh]
+[02:25:48] [cmd] John Luxe: [engine]
+[02:25:50] [chat] [John_Luxe]: naek
+[02:25:53] [cmd] John Luxe: [gps]
+[02:26:00] [chat] [Oceana_Skyrumi]: lupa cara main gta aku
+[02:26:03] [chat] [John_Luxe]: wkwk
+[02:26:21] [chat] [Oceana_Skyrumi]: eh ini tmpt apa
+[02:26:25] [chat] [Oceana_Skyrumi]: tadi
+[02:26:27] [cmd] Leo: [goto]
+[02:26:28] [chat] [John_Luxe]: tempat apan?
+[02:26:39] [chat] [Oceana_Skyrumi]: itu
+[02:26:47] [chat] [John_Luxe]: ini!
+[02:26:52] [cmd] Leo: [spank]
+[02:26:53] [chat] [Oceana_Skyrumi]: biasanya asuransi yah wkwk
+[02:26:56] [cmd] Leo: [spank]
+[02:26:57] [chat] [John_Luxe]: bukan
+[02:27:06] [chat] [Leo]: ke ke ke
+[02:27:11] [chat] [John_Luxe]: nih tmptnya
+[02:27:27] [chat] [Oceana_Skyrumi]: akubelum diset admin
+[02:27:30] [chat] [John_Luxe]: udah
+[02:27:31] [cmd] Leo: [goto]
+[02:27:47] [chat] [Oceana_Skyrumi]: rmhkuu
+[02:27:54] [chat] [John_Luxe]: wkwkwk
+[02:28:00] [chat] [Oceana_Skyrumi]: rinduu njid
+[02:28:03] [chat] [John_Luxe]: wkwkw hha
+[02:28:24] [chat] [Oceana_Skyrumi]: aku ntar mau beli rmh itu loh sep
+[02:28:27] [chat] [John_Luxe]: inget ga nih mba bntr
+[02:28:31] [chat] [Oceana_Skyrumi]: hahaha
+[02:28:47] [chat] [Oceana_Skyrumi]: naik heli?
+[02:28:57] [part] John_Luxe has left the server (0:0)
+[02:29:00] [connection] incoming connection: 118.99.115.49:45326 id: 0
+[02:29:01] [join] John_Luxe has joined the server (0:118.99.115.49)
+[02:29:01] > {FFFFFF}{AAAAAA}John_Luxe has joined the server [{33AA33}IP:{FFFFFF} 118.99.115.49]
+[02:29:10] [chat] [Leo]: gas
+[02:29:17] {FFFFFF}John Luxe {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[02:29:24] [chat] [Leo]: ke,bulan
+[02:29:26] [cmd] John Luxe: [goto]
+[02:29:30] [chat] [Oceana_Skyrumi]: kok bisa terbang?
+[02:29:34] [chat] [Leo]: cheat
+[02:29:35] AdmCmd:{FFFFFF} John Luxe spawned a Elegy.
+[02:29:35] [cmd] John Luxe: [veh]
+[02:29:40] [cmd] John Luxe: [engine]
+[02:29:51] [chat] [Oceana_Skyrumi]: eh seru haha
+[02:30:08] [chat] [Oceana_Skyrumi]: tapi kayak bug
+[02:30:28] [chat] [Leo]: nah
+[02:30:30] [chat] [Leo]: gk bug
+[02:30:32] [cmd] John Luxe: [gethere]
+[02:30:35] [chat] [Leo]: terjun yuk
+[02:30:36] [chat] [John_Luxe]: nih wkwk
+[02:30:36] [chat] [Oceana_Skyrumi]: apa itu
+[02:30:43] [chat] [John_Luxe]: anjer lupa
+[02:30:47] [chat] [Oceana_Skyrumi]: wkwk wait aku ss
+[02:30:51] [cmd] Leo: [a]
+[02:30:52] AdmCmd:{FFFFFF} Oceana Skyrumi has cleared the chat box.
+[02:30:52] [cmd] Oceana Skyrumi: [cc]
+[02:30:57] [chat] [John_Luxe]: padahallamarn disini
+[02:31:01] AdmCmd:{FFFFFF} Oceana Skyrumi has cleared the chat box.
+[02:31:01] [cmd] Oceana Skyrumi: [cc]
+[02:31:17] [chat] [Oceana_Skyrumi]: minggir sep wkwk
+[02:31:20] AdmCmd:{FFFFFF} Oceana Skyrumi has cleared the chat box.
+[02:31:20] [cmd] Oceana Skyrumi: [cc]
+[02:31:29] [chat] [John_Luxe]: bntrmba
+[02:31:31] [chat] [John_Luxe]: tunggu
+[02:31:54] [chat] [Oceana_Skyrumi]: inget jek aku
+[02:32:07] [cmd] Leo: [goto]
+[02:32:10] [chat] [Oceana_Skyrumi]: gagal nikah uda prewed
+[02:33:07] [cmd] John Luxe: [setskin]
+[02:33:21] [chat] [Oceana_Skyrumi]: baju ku hmm
+[02:33:47] [cmd] John Luxe: [setskin]
+[02:33:50] [cmd] John Luxe: [setskin]
+[02:33:54] [chat] [John_Luxe]: yang mana y
+[02:33:58] [chat] [Oceana_Skyrumi]: ini aja
+[02:34:01] [chat] [John_Luxe]: BAJU MB ilmi yang dulu
+[02:34:23] [cmd] Leo: [a]
+[02:34:24] [cmd] John Luxe: [setskin]
+[02:34:25] [chat] [Oceana_Skyrumi]: lupaa haha
+[02:34:35] AdmCmd:{FFFFFF} John Luxe is now on admin duty.
+[02:34:35] [cmd] John Luxe: [aduty]
+[02:34:39] [cmd] John Luxe: [ahelp]
+[02:34:51] [chat] [Oceana_Skyrumi]: ehh kamu niru in jek?? wkwk
+[02:35:00] [cmd] John Luxe: [omakeadmin]
+[02:35:03] [cmd] John Luxe: [ahelp]
+[02:35:09] AdmCmd:{FFFFFF} Oceana Skyrumi has cleared the chat box.
+[02:35:09] [cmd] Oceana Skyrumi: [cc]
+[02:35:22] [cmd] John Luxe: [ahelp]
+[02:35:48] [cmd] John Luxe: [a]
+[02:35:51] AdmCmd:{FFFFFF} Oceana Skyrumi is now on admin duty.
+[02:35:51] [cmd] Oceana Skyrumi: [aduty]
+[02:35:54] [cmd] Leo: [a]
+[02:36:11] [chat] [Oceana_Skyrumi]: leo terbang2
+[02:36:12] [cmd] John Luxe: [a]
+[02:36:14] [chat] [John_Luxe]: wkwk
+[02:36:19] [cmd] Leo: [a]
+[02:36:22] AdmCmd:{FFFFFF} John Luxe has given a Flowers to John Luxe.
+[02:36:22] [cmd] John Luxe: [givegun]
+[02:36:25] [chat] [John_Luxe]: hayo ks
+[02:36:27] [cmd] Leo: [a]
+[02:36:35] [cmd] John Luxe: [a]
+[02:36:40] [chat] [Oceana_Skyrumi]: gapake baju itu dia haha
+[02:36:45] [chat] [Oceana_Skyrumi]: anjir asep
+[02:36:52] [chat] [John_Luxe]: wkwk
+[02:36:55] [chat] [John_Luxe]: ni kan
+[02:37:00] [cmd] John Luxe: [a]
+[02:37:02] [chat] [Oceana_Skyrumi]: pake topi
+[02:37:07] [chat] [John_Luxe]: ohh iya wkwk
+[02:37:13] [cmd] Leo: [a]
+[02:37:14] [chat] [John_Luxe]: susah njer disikni gbiz
+[02:37:20] [cmd] John Luxe: [adminname]
+[02:37:29] [nick] John_Luxe nick changed to jek
+[02:37:29] AdmCmd:{FFFFFF} John_Luxe changed their administrator name to jek.
+[02:37:29] [cmd] jek: [adminname]
+[02:37:30] AdmCmd:{FFFFFF} Leo has given a AK-47 to Oceana Skyrumi.
+[02:37:30] [cmd] Leo: [givegun]
+[02:37:37] AdmCmd:{FFFFFF} Leo has given a AK-47 to jek.
+[02:37:37] [cmd] Leo: [givegun]
+[02:37:40] AdmCmd:{FFFFFF} Leo has given a AK-47 to Leo.
+[02:37:40] [cmd] Leo: [givegun]
+[02:37:49] [cmd] Leo: [s]
+[02:38:06] [chat] [jek]: wkwk
+[02:38:07] [chat] [Leo]: MATIIN MIC 
+[02:38:10] [chat] [Oceana_Skyrumi]: astagaaaa 
+[02:38:12] [chat] [Leo]:  bug
+[02:38:13] [chat] [jek]: apaam
+[02:38:23] [chat] [jek]: wkwk
+[02:38:25] [chat] [Leo]: angkat tangan dan kaki
+[02:38:36] [chat] [Oceana_Skyrumi]: sepp wtf
+[02:38:40] [chat] [jek]: wkwk ahhahh
+[02:38:46] [chat] [Leo]: hai bang jek
+[02:38:49] [chat] [jek]: iyaaa
+[02:38:58] [chat] [Leo]: kamu tampan
+[02:38:59] [chat] [jek]: leo jdi saksi yaa
+[02:39:03] [chat] [Leo]: buka dong
+[02:39:04] [chat] [Oceana_Skyrumi]: pengen nangis wkwk
+[02:39:11] [chat] [jek]: astaga
+[02:39:13] [chat] [Oceana_Skyrumi]: topinyaa
+[02:39:17] [chat] [jek]: gabisa disinj
+[02:39:21] [cmd] jek: [toys]
+[02:39:23] [chat] [Leo]: awokawok
+[02:39:28] [chat] [jek]: bntr
+[02:39:35] [chat] [jek]: dmn yaa toko baju njir
+[02:39:41] [chat] [Oceana_Skyrumi]: wkwk bisabisaa km sep
+[02:39:45] [cmd] Leo: [toys]
+[02:39:46] [cmd] jek: [jetpack]
+[02:39:50] AdmCmd:{FFFFFF} jek has given a jetpack to jek.
+[02:39:50] [cmd] jek: [jetpack]
+[02:39:57] AdmCmd:{FFFFFF} Leo has given a jetpack to Oceana Skyrumi.
+[02:39:57] [cmd] Leo: [jetpack]
+[02:40:07] [chat] [Oceana_Skyrumi]: haha seruu
+[02:40:11] AdmCmd:{FFFFFF} Leo has given a jetpack to Oceana Skyrumi.
+[02:40:11] [cmd] Leo: [jetpack]
+[02:40:23] AdmCmd:{FFFFFF} jek spawned a Elegy.
+[02:40:23] [cmd] jek: [veh]
+[02:40:28] AdmCmd:{FFFFFF} Leo has given a jetpack to Leo.
+[02:40:28] [cmd] Leo: [jetpack]
+[02:40:30] [cmd] jek: [a]
+[02:40:35] [cmd] jek: [engine]
+[02:40:38] [cmd] Leo: [a]
+[02:40:54] AdmCmd:{FFFFFF} Oceana Skyrumi has cleared the chat box.
+[02:40:54] [cmd] Oceana Skyrumi: [cc]
+[02:41:23] [nick] jek nick changed to John_Luxe
+[02:41:23] [part] John_Luxe has left the server (0:0)
+[02:41:35] [connection] incoming connection: 118.99.115.49:52677 id: 0
+[02:41:35] [join] John_Luxe has joined the server (0:118.99.115.49)
+[02:41:35] > {FFFFFF}{AAAAAA}John_Luxe has joined the server [{33AA33}IP:{FFFFFF} 118.99.115.49]
+[02:41:44] AdmCmd:{FFFFFF} Oceana Skyrumi has cleared the chat box.
+[02:41:44] [cmd] Oceana Skyrumi: [cc]
+[02:41:45] {FFFFFF}John Luxe {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[02:41:48] [chat] [John_Luxe]: weh
+[02:41:51] [chat] [John_Luxe]: toko toys dmn
+[02:41:57] AdmCmd:{FFFFFF} John Luxe has given a jetpack to John Luxe.
+[02:41:57] [cmd] John Luxe: [jetpack]
+[02:41:58] [chat] [Leo]: toko baju mungkin
+[02:41:59] AdmCmd:{FFFFFF} Oceana Skyrumi has cleared the chat box.
+[02:41:59] [cmd] Oceana Skyrumi: [cc]
+[02:42:20] [chat] [Leo]: hahaha
+[02:42:25] [chat] [Leo]: pincang
+[02:42:28] [chat] [Oceana_Skyrumi]: berkurang darahku
+[02:42:35] [cmd] Leo: [sethp]
+[02:42:38] [chat] [Leo]: dah
+[02:42:41] [cmd] Leo: [kiss]
+[02:42:47] [chat] [Leo]: awoAOAK
+[02:42:50] [chat] [Leo]: KABOR
+[02:43:08] AdmCmd:{FFFFFF} John Luxe spawned a Elegy.
+[02:43:08] [cmd] John Luxe: [veh]
+[02:43:10] [cmd] John Luxe: [engine]
+[02:43:13] [chat] [Oceana_Skyrumi]: lisence bikin dmn
+[02:43:15] [chat] [Leo]: mau mobil?
+[02:43:21] [chat] [Leo]: licensi apa?
+[02:43:25] [chat] [Oceana_Skyrumi]: gabisa nyetir 
+[02:43:27] [chat] [Oceana_Skyrumi]: sim
+[02:43:35] [chat] [Leo]: di depan stasiun
+[02:43:42] [chat] [Oceana_Skyrumi]: mau yang terbang2 tadi haha
+[02:43:49] [cmd] Leo: [kiss]
+[02:43:55] [chat] [Leo]: AOAAOAKAOKoa
+[02:44:02] [chat] [Leo]: sini
+[02:44:12] [chat] [Oceana_Skyrumi]: kok gabisa lari
+[02:44:13] [chat] [Leo]: sini
+[02:44:16] [chat] [Leo]: pincanf
+[02:44:18] [chat] [Leo]: pincang
+[02:44:18] [chat] [Oceana_Skyrumi]: pincang yaa 
+[02:44:20] [chat] [Leo]: hahaha
+[02:44:21] [chat] [Oceana_Skyrumi]: hmm
+[02:44:27] [chat] [Leo]: kaki nya kesleo
+[02:44:34] [cmd] John Luxe: [a]
+[02:44:38] [cmd] Leo: [a]
+[02:44:41] [chat] [Leo]: kemana nih
+[02:45:16] [chat] [Oceana_Skyrumi]: gatauu 
+[02:45:20] [chat] [Leo]: mau liat jalan di air?
+[02:45:23] [chat] [Oceana_Skyrumi]: bikinin sim
+[02:45:24] [chat] [Leo]: wkakak
+[02:45:28] [chat] [Leo]: bikin sim?
+[02:45:31] [cmd] John Luxe: [givemoney]
+[02:45:31] [chat] [Oceana_Skyrumi]: emang bisa?
+[02:45:40] [chat] [Leo]: nih
+[02:45:45] AdmCmd:{FFFFFF} John Luxe has given $100000 to John Luxe.
+[02:45:45] [cmd] John Luxe: [givemoney]
+[02:45:48] [chat] [Leo]: bismilah
+[02:45:49] [cmd] John Luxe: [buy]
+[02:45:55] [cmd] John Luxe: [buy]
+[02:45:57] [chat] [Oceana_Skyrumi]: aku gabisaa nyetirr 
+[02:46:10] [cmd] John Luxe: [flashlight]
+[02:46:15] [cmd] John Luxe: [a]
+[02:46:24] [cmd] Leo: [a]
+[02:46:30] [chat] [Oceana_Skyrumi]: aku gabisa nyetirrr 
+[02:46:30] [cmd] John Luxe: [a]
+[02:46:34] [cmd] John Luxe: [gps]
+[02:46:36] [cmd] John Luxe: [locate]
+[02:46:39] [cmd] Leo: [a]
+[02:46:46] [chat] [Leo]: mobil nya rusak
+[02:46:55] [cmd] Oceana Skyrumi: [helpme]
+[02:47:02] AdmCmd:{FFFFFF} Leo spawned a Landstalker.
+[02:47:02] [cmd] Leo: [veh]
+[02:47:05] [chat] [Leo]: nih
+[02:47:20] [cmd] John Luxe: [flashlight]
+[02:47:20] [chat] [Oceana_Skyrumi]: gbisa njir
+[02:47:22] [cmd] Leo: [goto]
+[02:47:27] [chat] [Oceana_Skyrumi]: gapunya sim
+[02:47:28] [cmd] Leo: [goto]
+[02:47:33] [cmd] John Luxe: [buy]
+[02:47:40] [cmd] Leo: [engine]
+[02:47:42] [cmd] John Luxe: [buy]
+[02:47:46] [chat] [Leo]: nih
+[02:48:07] [cmd] Leo: [goto]
+[02:48:12] [chat] [John_Luxe]: kok di leher njir
+[02:48:15] [cmd] John Luxe: [buy]
+[02:48:17] [chat] [Leo]: awoakaoak
+[02:48:21] [cmd] Leo: [b]
+[02:48:23] [cmd] Leo: [buy]
+[02:48:30] [cmd] John Luxe: [toys]
+[02:48:38] [cmd] Oceana Skyrumi: [help]
+[02:48:39] [cmd] John Luxe: [toys]
+[02:48:50] [cmd] Leo: [toys]
+[02:48:51] [cmd] Oceana Skyrumi: [goto]
+[02:48:55] [cmd] Leo: [toys]
+[02:49:01] [chat] [John_Luxe]: gmn nje set nya
+[02:49:05] [chat] [Leo]: gatau
+[02:49:11] [cmd] John Luxe: [buy]
+[02:49:16] [chat] [Oceana_Skyrumi]: jgn pincangin aku
+[02:49:25] [cmd] Leo: [gethere]
+[02:49:25] [chat] [John_Luxe]: gbisa
+[02:49:28] [chat] [Leo]: hahaha
+[02:49:39] [chat] [Oceana_Skyrumi]: sembuhin kaki ku leo
+[02:49:45] [chat] [John_Luxe]: astaga leo
+[02:49:47] [cmd] Leo: [a]
+[02:49:59] [chat] [Leo]: gimana nyembuhin nya njir
+[02:50:00] [cmd] John Luxe: [helpme]
+[02:50:05] [cmd] John Luxe: [help]
+[02:50:06] [chat] [Leo]: bunuh dulu mau?
+[02:50:13] [cmd] John Luxe: [clothes]
+[02:50:15] [chat] [Oceana_Skyrumi]: lahhh 
+[02:50:34] [cmd] Leo: [gethere]
+[02:50:41] [chat] [John_Luxe]: gmn set nya njir
+[02:50:42] [cmd] John Luxe: [buy]
+[02:50:51] [chat] [Leo]: awawoakwoa
+[02:51:04] [cmd] Leo: [help]
+[02:51:14] [cmd] John Luxe: [toys]
+[02:51:21] [cmd] John Luxe: [toys]
+[02:51:28] [cmd] John Luxe: [help]
+[02:51:34] [cmd] John Luxe: [inventory]
+[02:51:40] [cmd] Leo: [toys]
+[02:51:46] [cmd] Leo: [buy]
+[02:51:51] [cmd] John Luxe: [serverstats]
+[02:51:55] [chat] [John_Luxe]: gbisa mba
+[02:52:03] [chat] [Oceana_Skyrumi]: ini pincang slamanya?
+[02:52:07] [chat] [John_Luxe]: ngga
+[02:52:13] [chat] [John_Luxe]: kalo relog balik lagi
+[02:52:13] [chat] [Leo]: hehehe
+[02:52:19] [chat] [Leo]: vincangs
+[02:52:25] [chat] [Oceana_Skyrumi]: gapapa sep gak usah
+[02:52:42] [chat] [Oceana_Skyrumi]: gak usah topi
+[02:52:45] [chat] [Leo]: di leher njir
+[02:52:46] [chat] [John_Luxe]: wkwk
+[02:52:49] [chat] [John_Luxe]: ini gbisa di copot
+[02:52:52] [cmd] Leo: [toys]
+[02:53:01] [cmd] John Luxe: [toys]
+[02:53:05] [cmd] Leo: [toys]
+[02:53:13] [cmd] John Luxe: [help]
+[02:53:16] [cmd] Leo: [help]
+[02:53:31] [cmd] Leo: [a]
+[02:53:36] [chat] [John_Luxe]: mba
+[02:53:40] [chat] [John_Luxe]: ayokeiling
+[02:53:45] [chat] [Oceana_Skyrumi]: sep
+[02:53:46] [chat] [John_Luxe]: teken y aj
+[02:53:49] [chat] [John_Luxe]: apa
+[02:53:56] [chat] [Oceana_Skyrumi]: kasih aku sim
+[02:54:01] [cmd] Leo: [help]
+[02:54:02] [cmd] John Luxe: [help]
+[02:54:04] [cmd] John Luxe: [ahelp]
+[02:54:08] [cmd] Leo: [ahelp]
+[02:54:15] [cmd] John Luxe: [setstat]
+[02:54:29] [cmd] John Luxe: [setstat]
+[02:54:47] [chat] [John_Luxe]: ayo mba liat"
+[02:54:54] [cmd] John Luxe: [help]
+[02:54:58] [chat] [Oceana_Skyrumi]: ok
+[02:55:11] AdmCmd:{FFFFFF} John Luxe spawned a Faggio.
+[02:55:11] [cmd] John Luxe: [veh]
+[02:55:14] [cmd] John Luxe: [engine]
+[02:55:21] [chat] [John_Luxe]: ini mall
+[02:55:26] [chat] [Oceana_Skyrumi]: aku gabisa nyetir njir gaada sim
+[02:55:31] [chat] [John_Luxe]: coba
+[02:55:37] [chat] [John_Luxe]: coba setir
+[02:55:44] [chat] [John_Luxe]: bisa kan
+[02:55:45] [chat] [Oceana_Skyrumi]: kalau mobil gabisa
+[02:55:51] AdmCmd:{FFFFFF} John Luxe spawned a Elegy.
+[02:55:51] [cmd] John Luxe: [veh]
+[02:56:00] [cmd] John Luxe: [b]
+[02:56:09] [cmd] Oceana Skyrumi: [engine]
+[02:56:15] [chat] [Oceana_Skyrumi]: ohsuda
+[02:56:18] [chat] [John_Luxe]: iyaa
+[02:56:26] AdmCmd:{FFFFFF} John Luxe is now on admin duty.
+[02:56:26] [nick] John_Luxe nick changed to jek
+[02:56:26] [cmd] jek: [aduty]
+[02:56:37] [chat] [jek]: nih pintu masuk
+[02:56:48] [cmd] jek: [locate]
+[02:56:55] [death] Leo died 255
+[02:57:01] [chat] [jek]: taman
+[02:57:05] [chat] [Oceana_Skyrumi]: sep  berasaa jalan sama jek
+[02:57:08] [cmd] Leo: [revive]
+[02:57:08] [chat] [jek]: wkwk
+[02:57:26] [chat] [Oceana_Skyrumi]: bagus yaa
+[02:57:30] [chat] [Oceana_Skyrumi]: rs cobak
+[02:57:49] [chat] [jek]: sama 
+[02:57:59] [chat] [jek]: ehh beda yaa
+[02:58:06] [chat] [jek]: beda
+[02:58:08] [chat] [Oceana_Skyrumi]: atm nya terbang
+[02:58:10] [chat] [jek]: wkwk
+[02:58:13] [chat] [Oceana_Skyrumi]: bagusss
+[02:58:22] [chat] [jek]: aku lupa rs isrl
+[02:58:25] [chat] [jek]: aku lupa rs isrp
+[02:58:42] [chat] [jek]: sebelah kanan pokoknya
+[02:58:51] [chat] [jek]: sini mba
+[02:58:55] [cmd] Leo: [settime]
+[02:58:56] [chat] [Oceana_Skyrumi]: gabisa masuk ya
+[02:59:15] [cmd] Leo: [settime]
+[02:59:18] AdmCmd:{FFFFFF} jek spawned a Faggio.
+[02:59:18] [cmd] jek: [veh]
+[02:59:21] [cmd] jek: [engine]
+[02:59:34] [cmd] Leo: [settime]
+[02:59:40] [cmd] Leo: [settime]
+[02:59:42] [chat] [Oceana_Skyrumi]: gapernah naik motor sama jek aku wkwk
+[02:59:49] [chat] [jek]: trus naik apa
+[02:59:59] [chat] [Oceana_Skyrumi]: becak
+[03:00:03] [chat] [jek]: astaga wkek
+[03:00:07] [chat] [Oceana_Skyrumi]: apa iji
+[03:00:11] [chat] [jek]: bntr
+[03:00:15] [cmd] Leo: [settime]
+[03:00:15] AdmCmd:{FFFFFF} jek has given a jetpack to jek.
+[03:00:15] [cmd] jek: [jetpack]
+[03:00:21] [cmd] Leo: [settime]
+[03:00:23] [cmd] Leo: [settime]
+[03:00:32] [cmd] jek: [gethere]
+[03:00:36] [chat] [jek]: ba
+[03:00:38] [chat] [jek]: bar
+[03:00:51] [cmd] Leo: [goto]
+[03:01:13] [cmd] jek: [gethere]
+[03:01:20] [chat] [jek]: mana lagi yaa
+[03:01:30] [chat] [Oceana_Skyrumi]: mekaa wkkwk
+[03:01:37] [chat] [jek]: gaa di maping
+[03:01:41] [chat] [jek]: kayak gta biasa
+[03:02:00] [chat] [jek]: nntibaku minta mapingannya sama radif
+[03:02:10] [chat] [Oceana_Skyrumi]: rmhku itu wkkw
+[03:02:13] [chat] [jek]: wkwk
+[03:02:15] [chat] [Oceana_Skyrumi]: lah kokbradif
+[03:02:20] [chat] [Oceana_Skyrumi]: km pikir isrp
+[03:02:26] [chat] [jek]: iyaa mapingan meka isp
+[03:02:39] [cmd] jek: [gate]
+[03:02:45] [chat] [Oceana_Skyrumi]: apa nih
+[03:02:45] [chat] [jek]: ini apaa nje
+[03:02:58] [cmd] jek: [gate]
+[03:03:03] [cmd] jek: [jetpack]
+[03:03:08] [chat] [jek]: get
+[03:03:10] [chat] [Leo]: woe
+[03:03:11] [chat] [jek]: get 0
+[03:03:16] [cmd] jek: [b]
+[03:03:19] [cmd] jek: [b]
+[03:03:36] [cmd] jek: [goto]
+[03:03:36] [chat] [Oceana_Skyrumi]: goto 0
+[03:03:48] [sv:dbg:network:connect] : disconnecting player (1) ...
+[03:03:48] [nick] Leo nick changed to Leo_Prince
+[03:03:48] [part] Leo_Prince has left the server (1:0)
+[03:04:00] [connection] incoming connection: 120.188.95.210:26075 id: 1
+[03:04:01] [sv:dbg:network:connect] : connecting player (1) with address (120.188.95.210) ...
+[03:04:01] [sv:dbg:network:connect] : player (1) assigned key (41b23cb4)
+[03:04:01] [join] Leo_Prince has joined the server (1:120.188.95.210)
+[03:04:01] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[03:04:01] [sv:dbg:network:receive] : player (1) identified (port:57332)
+[03:04:07] [chat] [jek]: mRKAS
+[03:04:09] [chat] [Oceana_Skyrumi]: kayak kebun sayur
+[03:04:11] {FFFFFF}Leo Prince {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[03:04:13] [chat] [jek]: anjer
+[03:04:16] [cmd] Leo Prince: [goto]
+[03:04:23] [chat] [jek]: keluar leo
+[03:04:40] [cmd] jek: [gethere]
+[03:04:52] [cmd] Leo Prince: [gethere]
+[03:04:55] [death] Leo_Prince died 255
+[03:05:01] AdmCmd:{FFFFFF} Leo Prince has revived Leo Prince
+[03:05:01] [cmd] Leo Prince: [revive]
+[03:05:24] AdmCmd:{FFFFFF} Leo Prince is now on admin duty.
+[03:05:24] [nick] Leo_Prince nick changed to Leo
+[03:05:24] [cmd] Leo: [aduty]
+[03:05:32] [cmd] jek: [gate]
+[03:06:16] [cmd] Leo: [goto]
+[03:06:24] [chat] [Oceana_Skyrumi]: itu tadi rmh sep?
+[03:06:27] [chat] [jek]: iyaa
+[03:06:36] [chat] [jek]: tuh begini
+[03:06:41] [chat] [Oceana_Skyrumi]: tmpt sgar dady
+[03:06:44] [chat] [jek]: wkwk
+[03:06:56] [chat] [jek]: wait
+[03:07:11] [cmd] Leo: [gethere]
+[03:07:31] [cmd] Leo: [goto]
+[03:07:41] [chat] [Leo]: di atas gunung
+[03:07:46] [chat] [Leo]: keren
+[03:08:01] AdmCmd:{FFFFFF} jek spawned a Maverick.
+[03:08:01] [cmd] jek: [veh]
+[03:08:04] [cmd] jek: [engine]
+[03:08:05] [chat] [Oceana_Skyrumi]: lah pada ilang
+[03:08:09] [cmd] jek: [gethere]
+[03:08:11] {FF0000}AdmWarning: Leo{FFFFFF}[1] was helibladed by jek[0].
+[03:08:22] [chat] [jek]: naek
+[03:08:26] [chat] [Oceana_Skyrumi]: bagussss
+[03:08:35] [death] Leo died 255
+[03:08:44] [cmd] Leo: [revive]
+[03:08:56] [chat] [Oceana_Skyrumi]: lah air
+[03:09:07] [chat] [jek]: ini mana anjer
+[03:09:10] [chat] [jek]: kok awan
+[03:09:28] [chat] [Oceana_Skyrumi]: itu maps
+[03:09:52] [cmd] Leo: [gethere]
+[03:09:52] [cmd] jek: [ahelp]
+[03:09:53] {FF0000}AdmWarning: Leo{FFFFFF}[1] was helibladed by jek[0].
+[03:09:55] [chat] [Leo]: awoakwoak
+[03:09:57] [chat] [jek]: leo anj
+[03:10:04] [chat] [Oceana_Skyrumi]: haha leoo
+[03:10:17] [cmd] Leo: [a]
+[03:10:20] [cmd] jek: [a]
+[03:10:21] [chat] [Oceana_Skyrumi]: ke bulan sep
+[03:10:26] [chat] [jek]: gmn nje
+[03:10:31] [cmd] Leo: [gethere]
+[03:10:36] [chat] [jek]: ke balkot anime
+[03:10:48] [cmd] Leo: [gethere]
+[03:10:51] [chat] [Leo]: salah
+[03:10:51] {FF0000}AdmWarning: Leo{FFFFFF}[1] was helibladed by jek[0].
+[03:10:53] [chat] [Leo]: wait
+[03:11:05] [cmd] jek: [a]
+[03:11:14] [cmd] jek: [a]
+[03:11:14] [cmd] jek: [a]
+[03:11:15] [cmd] jek: [a]
+[03:11:23] [chat] [jek]: nih mba
+[03:11:24] [cmd] Leo: [gethere]
+[03:11:28] [chat] [jek]: leo anj
+[03:11:31] [chat] [jek]: ja tp bagsat
+[03:11:42] [cmd] Leo: [a]
+[03:12:04] [chat] [Oceana_Skyrumi]: bntar afk minum
+[03:12:04] [death] Leo died 255
+[03:12:06] [chat] [jek]: iya
+[03:12:09] [death] Leo died 255
+[03:13:15] [sv:dbg:network:connect] : disconnecting player (1) ...
+[03:13:15] [nick] Leo nick changed to Leo_Prince
+[03:13:15] [part] Leo_Prince has left the server (1:0)
+[03:13:24] [cmd] jek: [gethere]
+[03:13:29] [cmd] jek: [gethere]
+[03:13:34] [cmd] jek: [ahelp]
+[03:14:05] [chat] [Oceana_Skyrumi]: nyampe
+[03:14:09] [chat] [jek]: wkwk
+[03:14:13] [chat] [jek]: tau ga tmpt ni?
+[03:14:17] [cmd] jek: [ahelp]
+[03:14:29] [chat] [Oceana_Skyrumi]: yang km curhat bukan?
+[03:14:37] [chat] [jek]: wkw iya
+[03:14:44] [chat] [jek]: mana lagi ya tmpt
+[03:14:47] AdmCmd:{FFFFFF} jek spawned a Elegy.
+[03:14:47] [cmd] jek: [veh]
+[03:14:51] [chat] [jek]: coba mha
+[03:14:53] [chat] [jek]: nyetir
+[03:15:01] [chat] [jek]: ampe balkot
+[03:15:02] [chat] [Oceana_Skyrumi]: kmn
+[03:15:08] [chat] [Oceana_Skyrumi]: gatau balkot
+[03:15:16] [chat] [jek]: YAUDA RMH MBA ILMI
+[03:15:36] [chat] [Oceana_Skyrumi]: jauh sep
+[03:15:46] [chat] [jek]: gpp coba wkwk
+[03:15:50] [cmd] Oceana Skyrumi: [engine]
+[03:16:00] [chat] [jek]: bisa nyetir ga nih punya sim
+[03:16:01] [chat] [jek]: wkwk
+[03:16:15] [chat] [Oceana_Skyrumi]: diemlah
+[03:16:16] [chat] [jek]: weh
+[03:16:25] [chat] [jek]: astaga wkwk
+[03:16:31] [chat] [Oceana_Skyrumi]: haaha
+[03:16:40] [chat] [Oceana_Skyrumi]: lupa jalan
+[03:16:46] [chat] [jek]: sini bntr
+[03:17:00] [chat] [jek]: lurus
+[03:17:01] [chat] [Oceana_Skyrumi]: mana
+[03:17:12] [chat] [jek]: kanan
+[03:17:31] [chat] [jek]: wiii
+[03:17:34] [chat] [Oceana_Skyrumi]: hahaha
+[03:17:36] [chat] [jek]: nah tuh belakang
+[03:17:39] [chat] [jek]: kanan
+[03:17:45] [chat] [jek]: kanan
+[03:17:50] [chat] [jek]: kanan
+[03:17:55] [chat] [jek]: weh tadi mba
+[03:18:12] [chat] [Oceana_Skyrumi]: kamu aja dah
+[03:18:15] [chat] [jek]: wkw
+[03:18:27] [chat] [jek]: punya sim doang nih mba nya
+[03:18:37] [chat] [Oceana_Skyrumi]: wkwkw 
+[03:18:44] [chat] [Oceana_Skyrumi]: biasa caloo
+[03:18:47] [chat] [jek]: hahah
+[03:19:31] AdmCmd:{FFFFFF} Oceana Skyrumi has cleared the chat box.
+[03:19:31] [cmd] Oceana Skyrumi: [cc]
+[03:20:04] [chat] [jek]: astga
+[03:20:12] AdmCmd:{FFFFFF} jek spawned a Sultan.
+[03:20:12] [cmd] jek: [veh]
+[03:20:15] [cmd] jek: [engine]
+[03:20:23] [chat] [Oceana_Skyrumi]: tau aku dr sini kalau plg
+[03:20:30] [chat] [jek]: coba
+[03:20:33] [chat] [Oceana_Skyrumi]: tp km aja yg nyetir
+[03:20:40] [chat] [jek]: okok
+[03:20:42] [chat] [Oceana_Skyrumi]: haaaha
+[03:22:01] [chat] [jek]: yang mna 
+[03:22:06] [chat] [Oceana_Skyrumi]: nah
+[03:22:17] [chat] [Oceana_Skyrumi]: tadi rmhku wkkw
+[03:22:24] [chat] [Oceana_Skyrumi]: sebelum bangkrut
+[03:22:27] [chat] [jek]: wkwk
+[03:22:40] [chat] [jek]: mau off au
+[03:22:42] [chat] [jek]: ngantuk
+[03:22:46] [chat] [Oceana_Skyrumi]: ok sep
+[03:22:46] [cmd] jek: [ahelp]
+[03:22:59] [chat] [jek]: aku restart server yaa
+[03:23:08] [part] Oceana_Skyrumi has left the server (2:0)
+[03:23:09] [cmd] jek: [gmx]
+[03:23:09]   Filterscript 'propamap.amx' unload failed.
+[03:23:09]   Filterscript 'propamap.amx' load failed'.
+[03:23:09] [nick] jek nick changed to John_Luxe
+[03:23:21] AMX (50656320) loaded
+[03:23:21] OnScriptInit 1
+[03:23:21]  
+[03:23:21]  
+[03:23:21]  
+[03:23:21]  ======================================= 
+[03:23:21]  |                                     | 
+[03:23:21]  |        YSI version 1.06.0002        | 
+[03:23:21]  |        By Alex "Y_Less" Cole        | 
+[03:23:21]  |                                     | 
+[03:23:21]  ======================================= 
+[03:23:21]  
+[03:23:21] OnScriptInit 2
+[03:23:21] OnScriptInit 3
+[03:23:21] Iter_OnGameModeInit start: 180
+[03:23:21] Relative Comunity Roleplay
+[03:23:21] 222 objects loaded.
+[03:23:21] Iter_OnGameModeInit: first
+[03:23:21] OnScriptInit 4
+[03:23:21] Number of vehicle models: 9
+[03:23:21] > {FFFFFF}{AAAAAA}John_Luxe has joined the server [{33AA33}IP:{FFFFFF} 118.99.115.49]
+[03:23:22] [Script] 7 atms loaded
+[03:23:22] [Script] 34 vendors loaded
+[03:23:22] [Script] 9 mdc loaded
+[03:23:22] [Script] 0 surgery room loaded
+[03:23:22] [Script] 43 Public Garage loaded
+[03:23:22] [Script] 2 Bars loaded
+[03:23:22] [Script] 0 houses loaded.
+[03:23:22] [Script] 1 garages loaded.
+[03:23:22] [Script] 35 businesses loaded.
+[03:23:22] [Script] 53 entrances loaded.
+[03:23:22] [Script] 7 factions loaded.
+[03:23:22] [Script] 5 gangs loaded.
+[03:23:22] [Script] 15 points loaded.
+[03:23:22] [Script] 9 turfs loaded.
+[03:23:25] [part] John_Luxe has left the server (0:0)
+[09:07:39] [connection] incoming connection: 120.188.95.210:27571 id: 0
+[09:07:40] [sv:dbg:network:connect] : connecting player (0) with address (120.188.95.210) ...
+[09:07:40] [sv:dbg:network:connect] : player (0) assigned key (7c34488f)
+[09:07:40] [join] Leo_Prince has joined the server (0:120.188.95.210)
+[09:07:40] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[09:07:40] [sv:dbg:network:receive] : player (0) identified (port:60283)
+[09:07:53] {FFFFFF}Leo Prince {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[09:07:59] [death] Leo_Prince died 255
+[09:08:12] AdmCmd:{FFFFFF} Leo Prince has revived Leo Prince
+[09:08:12] [cmd] Leo Prince: [revive]
+[09:08:20] [death] Leo_Prince died 255
+[09:08:25] AdmCmd:{FFFFFF} Leo Prince has revived Leo Prince
+[09:08:25] [cmd] Leo Prince: [revive]
+[09:08:27] AdmCmd:{FFFFFF} Leo Prince is now on admin duty.
+[09:08:27] [nick] Leo_Prince nick changed to Leo
+[09:08:27] [cmd] Leo: [aduty]
+[09:08:50] [cmd] Leo: [capture]
+[09:10:00] [cmd] Leo: [goto]
+[09:10:06] [cmd] Leo: [goto]
+[09:10:11] [cmd] Leo: [goto]
+[09:10:18] [cmd] Leo: [goto]
+[09:10:34] [cmd] Leo: [goto]
+[09:11:30] [sv:dbg:network:connect] : disconnecting player (0) ...
+[09:11:30] [nick] Leo nick changed to Leo_Prince
+[09:11:30] [part] Leo_Prince has left the server (0:0)
+[09:19:12] [connection] incoming connection: 120.188.95.210:27582 id: 0
+[09:19:13] [sv:dbg:network:connect] : connecting player (0) with address (120.188.95.210) ...
+[09:19:13] [sv:dbg:network:connect] : player (0) assigned key (2697d95f)
+[09:19:13] [join] Leo_Prince has joined the server (0:120.188.95.210)
+[09:19:13] > {FFFFFF}{AAAAAA}Leo_Prince has joined the server [{33AA33}IP:{FFFFFF} 120.188.95.210]
+[09:19:13] [sv:dbg:network:receive] : player (0) identified (port:60293)
+[09:19:23] {FFFFFF}Leo Prince {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[09:20:52] [sv:dbg:network:connect] : disconnecting player (0) ...
+[09:20:52] [part] Leo_Prince has left the server (0:0)
+[09:26:39] [connection] incoming connection: 118.99.115.49:53639 id: 0
+[09:26:40] [join] John_Luxe has joined the server (0:118.99.115.49)
+[09:26:40] > {FFFFFF}{AAAAAA}John_Luxe has joined the server [{33AA33}IP:{FFFFFF} 118.99.115.49]
+[09:26:59] {FFFFFF}John Luxe {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[09:27:19] AdmCmd:{FFFFFF} John Luxe has cleared the chat box.
+[09:27:19] [cmd] John Luxe: [cc]
+[09:28:04] AdmCmd:{FFFFFF} John Luxe spawned a Elegy.
+[09:28:04] [cmd] John Luxe: [veh]
+[09:28:14] [cmd] John Luxe: [engine]
+[09:31:20] [cmd] John Luxe: [jetpack]
+[09:31:23] AdmCmd:{FFFFFF} John Luxe has given a jetpack to John Luxe.
+[09:31:23] [cmd] John Luxe: [jetpack]
+[09:34:23] AdmCmd:{FFFFFF} John Luxe spawned a Elegy.
+[09:34:23] [cmd] John Luxe: [veh]
+[09:40:00] [part] John_Luxe has left the server (0:0)
+[09:47:52] [connection] incoming connection: 103.105.31.100:29275 id: 0
+[09:47:53] [sv:dbg:network:connect] : connecting player (0) with address (103.105.31.100) ...
+[09:47:53] [sv:dbg:network:connect] : player (0) assigned key (272ce1c3)
+[09:47:53] [join] Iwan_Setiawan has joined the server (0:103.105.31.100)
+[09:47:53] > {FFFFFF}{AAAAAA}Iwan_Setiawan has joined the server [{33AA33}IP:{FFFFFF} 103.105.31.100]
+[09:47:53] [sv:dbg:network:receive] : player (0) identified (port:11436)
+[09:48:31] AdmCmd: Iwan_Setiawan submitted their pending application (ID: 0).
+[09:49:05] [cmd] Iwan Setiawan: [join]
+[09:49:18] [cmd] Iwan Setiawan: [carhelp]
+[09:49:24] [cmd] Iwan Setiawan: [engine]
+[09:49:31] [cmd] Iwan Setiawan: [jobhelp]
+[09:49:42] [cmd] Iwan Setiawan: [setfare]
+[09:50:11] [cmd] Iwan Setiawan: [buy]
+[09:51:18] [cmd] Iwan Setiawan: [locate]
+[09:52:05] [cmd] Iwan Setiawan: [buy]
+[09:53:16] [cmd] Iwan Setiawan: [engine]
+[09:53:31] [cmd] Iwan Setiawan: [quitjob]
+[09:53:43] [cmd] Iwan Setiawan: [join]
+[09:53:49] [cmd] Iwan Setiawan: [jobhelp]
+[09:54:03] [cmd] Iwan Setiawan: [cc]
+[09:56:02] [sv:dbg:network:connect] : disconnecting player (0) ...
+[09:56:02] [part] Iwan_Setiawan has left the server (0:0)
+[09:59:24] [connection] incoming connection: 103.105.31.100:29291 id: 0
+[09:59:25] [sv:dbg:network:connect] : connecting player (0) with address (103.105.31.100) ...
+[09:59:25] [sv:dbg:network:connect] : player (0) assigned key (ac418655)
+[09:59:25] [join] Iwan_Setiawan has joined the server (0:103.105.31.100)
+[09:59:25] > {FFFFFF}{AAAAAA}Iwan_Setiawan has joined the server [{33AA33}IP:{FFFFFF} 103.105.31.100]
+[09:59:25] [sv:dbg:network:receive] : player (0) identified (port:11437)
+[09:59:47] [cmd] Iwan Setiawan: [locate]
+[10:00:11] [sv:dbg:network:connect] : disconnecting player (0) ...
+[10:00:11] [part] Iwan_Setiawan has left the server (0:0)
+[11:15:10]  -------------------------------------------
+[11:15:10]            SampVoice unloading...           
+[11:15:10]  -------------------------------------------
+[11:15:10] [dbg:raknet:free] : module releasing...
+[11:15:10] [dbg:raknet:free] : module released
+[11:15:10] [sv:dbg:network:free] : module releasing...
+[11:15:10] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:04:43] password = ""  (string)
+[12:04:43] weburl = "www.sa-mp.com"  (string)
+[12:04:43] password = ""  (string)
+[12:04:43] 
+[12:04:43] Server Plugins
+[12:04:43] --------------
+[12:04:43]  Loading plugin: sampvoice
+[12:04:43] [sv:dbg:network:init] : module initializing...
+[12:04:43] [dbg:raknet:init] : module initializing...
+[12:04:43] [dbg:raknet:init] : module initialized
+[12:04:43] [sv:dbg:network:init] : module initialized
+[12:04:43] [sv:dbg:main:Load] : creating 4 work threads...
+[12:04:43]  -------------------------------------------    
+[12:04:43]    ___                __   __    _              
+[12:04:43]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[12:04:43]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[12:04:43]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[12:04:43]                   |_|                           
+[12:04:43]  -------------------------------------------    
+[12:04:43]            SampVoice by MOR loaded              
+[12:04:43]  -------------------------------------------    
+[12:04:43]   Loaded.
+[12:04:43]  Loading plugin: crashdetect
+[12:04:43]   CrashDetect plugin 4.19.4
+[12:04:43]   Loaded.
+[12:04:43]  Loading plugin: whirlpool
+[12:04:43]  
+[12:04:43]  ==================
+[12:04:43]  
+[12:04:43]   Whirlpool loaded
+[12:04:43]  
+[12:04:43]  ==================
+[12:04:43]  
+[12:04:44]   Loaded.
+[12:04:44]  Loading plugin: pawncmd
+[12:04:44] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:04:44]   Loaded.
+[12:04:44]  Loading plugin: sscanf
+[12:04:44] 
+
+[12:04:44]  ===============================
+
+[12:04:44]       sscanf plugin loaded.     
+
+[12:04:44]          Version:  2.8.1        
+
+[12:04:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[12:04:44]  ===============================
+
+[12:04:44]   Loaded.
+[12:04:44]  Loading plugin: streamer
+[12:04:44] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[12:04:44]   Loaded.
+[12:04:44]  Loading plugin: SKY
+[12:04:44] 
+[12:04:44]  ===============================
+[12:04:44]    
+[12:04:44]    < SKY - 2.3.0 >
+[12:04:44]    
+[12:04:44]    (c) 2008 - Present | YSF Maintainers
+[12:04:44]    (c) 2015 | Oscar "Slice" Broman
+[12:04:44]    
+[12:04:44]    Server Version: 0.3.7 R2
+[12:04:44]    Operating System: Windows
+[12:04:44]    Built on: Jul 19 2020 at 18:01:33
+[12:04:44]    
+[12:04:44]  ===============================
+[12:04:44] 
+[12:04:44]   Loaded.
+[12:04:44]  Loading plugin: mysql
+[12:04:44]  >> plugin.mysql: R39-6 successfully loaded.
+[12:04:44]   Loaded.
+[12:04:44]  Loading plugin: nativechecker
+[12:04:44]   Loaded.
+[12:04:44]  Loaded 9 plugins.
+
+[12:04:44] 
+[12:04:44] Filterscripts
+[12:04:44] ---------------
+[12:04:44]   Loading filterscript 'pcrpmap.amx'...
+[12:04:44] [sv:dbg:main:AmxLoad] : net game pointer (value:02269C58) received
+[12:04:44] [sv:dbg:network:bind] : voice server running on port 53925
+[12:04:44] AMX (56518104) loaded
+[12:04:44]   Loaded 1 filterscripts.
+
+[12:04:44] AMX (56426312) loaded
+[12:04:44] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[12:04:44] OnScriptInit 1
+[12:04:44]  
+[12:04:44]  
+[12:04:44]  
+[12:04:44]  ======================================= 
+[12:04:44]  |                                     | 
+[12:04:44]  |        YSI version 1.06.0002        | 
+[12:04:44]  |        By Alex "Y_Less" Cole        | 
+[12:04:44]  |                                     | 
+[12:04:44]  ======================================= 
+[12:04:44]  
+[12:04:44] OnScriptInit 2
+[12:04:44] OnScriptInit 3
+[12:04:44] Iter_OnGameModeInit start: 180
+[12:04:44] Relative Comunity Roleplay
+[12:04:45] 545 objects loaded.
+[12:04:45] Iter_OnGameModeInit: first
+[12:04:45] OnScriptInit 4
+[12:04:45] Number of vehicle models: 9
+[12:04:45] [Script] 7 atms loaded
+[12:04:45] [Script] 34 vendors loaded
+[12:04:45] [Script] 9 mdc loaded
+[12:04:45] [Script] 0 surgery room loaded
+[12:04:45] [Script] 43 Public Garage loaded
+[12:04:45] [Script] 2 Bars loaded
+[12:04:45] [Script] 0 houses loaded.
+[12:04:45] [Script] 1 garages loaded.
+[12:04:45] [Script] 35 businesses loaded.
+[12:04:45] [Script] 53 entrances loaded.
+[12:04:45] [Script] 7 factions loaded.
+[12:04:45] [Script] 5 gangs loaded.
+[12:04:45] [Script] 15 points loaded.
+[12:04:45] [Script] 9 turfs loaded.
+[12:05:50] [connection] incoming connection: 127.0.0.1:58889 id: 0
+[12:05:50] [join] Ashura_Takashi has joined the server (0:127.0.0.1)
+[12:05:50] > {FFFFFF}{AAAAAA}Ashura_Takashi has joined the server [{33AA33}IP:{FFFFFF} 127.0.0.1]
+[12:06:58] AdmCmd: Ashura_Takashi submitted their pending application (ID: 0).
+[12:07:08] [cmd] Ashura Takashi: [am]
+[12:07:15] Admin message from Ashura_Takashi [0]:{ffffff} tes
+[12:07:15] [cmd] Ashura Takashi: [am]
+[12:07:19] [cmd] Ashura Takashi: [newb]
+[12:07:27] [cmd] Ashura Takashi: [gps]
+[12:08:35] [part] Ashura_Takashi has left the server (0:1)
+[12:09:11] [connection] incoming connection: 127.0.0.1:54475 id: 0
+[12:09:11] [join] Ashura_Takashi has joined the server (0:127.0.0.1)
+[12:09:11] > {FFFFFF}{AAAAAA}Ashura_Takashi has joined the server [{33AA33}IP:{FFFFFF} 127.0.0.1]
+[12:09:33] {FFFFFF}Ashura Takashi {00AAAA}has logged in as a {FFFFFF}Community Owner{00AAAA}.
+[12:09:43] [cmd] Ashura Takashi: [ahelp]
+[12:10:21] [cmd] Ashura Takashi: [buy]
+[12:10:29] [cmd] Ashura Takashi: [givemoney]
+[12:10:32] AdmCmd:{FFFFFF} Ashura Takashi has given $9999999 to Ashura Takashi.
+[12:10:32] [cmd] Ashura Takashi: [givemoney]
+[12:10:34] [cmd] Ashura Takashi: [buy]
+[12:10:38] [cmd] Ashura Takashi: [buy]
+[12:10:40] [cmd] Ashura Takashi: [buy]
+[12:10:41] [cmd] Ashura Takashi: [buy]
+[12:10:44] [cmd] Ashura Takashi: [buy]
+[12:10:54] [cmd] Ashura Takashi: [backpack]
+[12:11:04] [cmd] Ashura Takashi: [robbiz]
+[12:11:16] [cmd] Ashura Takashi: [gps]
+[12:11:19] [cmd] Ashura Takashi: [gps]
+[12:11:21] [cmd] Ashura Takashi: [gps]
+[12:11:30] [cmd] Ashura Takashi: [help]
+[12:11:41] [cmd] Ashura Takashi: [locate]
+[12:11:50] AdmCmd:{FFFFFF} Ashura Takashi is now on admin duty.
+[12:11:50] [nick] Ashura_Takashi nick changed to Kazuji
+[12:11:50] [cmd] Kazuji: [aduty]
+[12:12:16] [cmd] Kazuji: [ahelp]
+[12:12:49] [cmd] Kazuji: [aduty]
+[12:12:49] [nick] Kazuji nick changed to Ashura_Takashi
+[12:12:49] AdmCmd:{FFFFFF} Ashura Takashi is no longer on admin duty.
+[12:13:00] AdmCmd:{FFFFFF} Ashura Takashi spawned a NRG-500.
+[12:13:00] [cmd] Ashura Takashi: [veh]
+[12:13:10] [cmd] Ashura Takashi: [engine]
+[12:14:00] [cmd] Ashura Takashi: [upgrade]
+[12:14:58] [cmd] Ashura Takashi: [getweplic]
+[12:15:16] [cmd] Ashura Takashi: [locate]
+[12:15:19] [cmd] Ashura Takashi: [locate]
+[12:16:47] [cmd] Ashura Takashi: [seatbelt]
+[12:17:21] [cmd] Ashura Takashi: [cc]
+[12:18:07] [cmd] Ashura Takashi: [settime]
+[12:18:36] AdmCmd:{FFFFFF} Ashura Takashi spawned a Vincent.
+[12:18:36] [cmd] Ashura Takashi: [veh]
+[12:18:50] AdmCmd:{FFFFFF} Ashura Takashi destroyed all admin spawned vehicles.
+[12:18:50] [cmd] Ashura Takashi: [destroyveh]
+[12:18:57] AdmCmd:{FFFFFF} Ashura Takashi spawned a Hydra.
+[12:18:57] [cmd] Ashura Takashi: [veh]
+[12:19:00] AdmCmd:{FFFFFF} Ashura Takashi destroyed all admin spawned vehicles.
+[12:19:00] [cmd] Ashura Takashi: [destroyveh]
+[12:19:19] AdmCmd:{FFFFFF} Ashura Takashi spawned a Taxi.
+[12:19:19] [cmd] Ashura Takashi: [veh]
+[12:19:25] [cmd] Ashura Takashi: [settime]
+[12:19:26] AdmCmd:{FFFFFF} Ashura Takashi spawned a Hunter.
+[12:19:26] [cmd] Ashura Takashi: [veh]
+[12:19:30] [cmd] Ashura Takashi: [destroyveh]
+[12:19:35] [cmd] Ashura Takashi: [settime]
+[12:19:44] [cmd] Ashura Takashi: [engine]
+[12:20:18] [cmd] Ashura Takashi: [settime]
+[12:20:21] [cmd] Ashura Takashi: [settime]
+[12:20:23] [cmd] Ashura Takashi: [settime]
+[12:20:25] [cmd] Ashura Takashi: [settime]
+[12:20:26] [cmd] Ashura Takashi: [settime]
+[12:20:28] [cmd] Ashura Takashi: [settime]
+[12:20:41] [part] Ashura_Takashi has left the server (0:1)
+[12:21:00]  -------------------------------------------
+[12:21:00]            SampVoice unloading...           
+[12:21:00]  -------------------------------------------
+[12:21:00] [dbg:raknet:free] : module releasing...
+[12:21:00] [dbg:raknet:free] : module released
+[12:21:00] [sv:dbg:network:free] : module releasing...
+[12:21:00] [sv:dbg:network:free] : module released
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:07:43] password = ""  (string)
+[10:07:43] weburl = "www.sa-mp.com"  (string)
+[10:07:43] password = ""  (string)
+[10:07:43] 
+[10:07:43] Server Plugins
+[10:07:43] --------------
+[10:07:43]  Loading plugin: crashdetect
+[10:07:43]   CrashDetect plugin 4.19.4
+[10:07:43]   Loaded.
+[10:07:43]  Loading plugin: whirlpool
+[10:07:43]  
+[10:07:43]  ==================
+[10:07:43]  
+[10:07:43]   Whirlpool loaded
+[10:07:43]  
+[10:07:43]  ==================
+[10:07:43]  
+[10:07:43]   Loaded.
+[10:07:43]  Loading plugin: pawncmd
+[10:07:43] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[10:07:43]   Loaded.
+[10:07:43]  Loading plugin: sscanf
+[10:07:43] 
+
+[10:07:43]  ===============================
+
+[10:07:43]       sscanf plugin loaded.     
+
+[10:07:43]          Version:  2.8.1        
+
+[10:07:43]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:07:43]  ===============================
+
+[10:07:43]   Loaded.
+[10:07:43]  Loading plugin: streamer
+[10:07:43] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[10:07:43]   Loaded.
+[10:07:43]  Loading plugin: SKY
+[10:07:43] 
+[10:07:43]  ===============================
+[10:07:43]    
+[10:07:43]    < SKY - 2.3.0 >
+[10:07:43]    
+[10:07:43]    (c) 2008 - Present | YSF Maintainers
+[10:07:43]    (c) 2015 | Oscar "Slice" Broman
+[10:07:43]    
+[10:07:43]    Server Version: 0.3.7 R2
+[10:07:43]    Operating System: Windows
+[10:07:43]    Built on: Jul 19 2020 at 18:01:33
+[10:07:43]    
+[10:07:43]  ===============================
+[10:07:43] 
+[10:07:43]   Loaded.
+[10:07:43]  Loading plugin: mysql
+[10:07:43]  >> plugin.mysql: R39-6 successfully loaded.
+[10:07:43]   Loaded.
+[10:07:43]  Loading plugin: nativechecker
+[10:07:43]   Loaded.
+[10:07:43]  Loaded 8 plugins.
+
+[10:07:43] 
+[10:07:43] Filterscripts
+[10:07:43] ---------------
+[10:07:43]   Loading filterscript 'pcrpmap.amx'...
+[10:07:43] AMX (43804000) loaded
+[10:07:43]   Loaded 1 filterscripts.
+
+[10:07:43] AMX (43712208) loaded
+[10:07:43] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[10:07:43]    Error: Function not registered: 'SvCreateGStream'
+[10:07:43]    Error: Function not registered: 'SvDeleteStream'
+[10:07:43]    Error: Function not registered: 'SvAttachSpeakerToStream'
+[10:07:43]    Error: Function not registered: 'SvDetachSpeakerFromStream'
+[10:07:43]    Error: Function not registered: 'SvGetVersion'
+[10:07:43]    Error: Function not registered: 'SvHasMicro'
+[10:07:43]    Error: Function not registered: 'SvCreateDLStreamAtPlayer'
+[10:07:43]    Error: Function not registered: 'SvAttachListenerToStream'
+[10:07:43]    Error: Function not registered: 'SvAddKey'
+[10:07:43] [debug] Run time error 19: "File or function is not found"
+[10:07:43] [debug]  SvCreateGStream
+[10:07:43] [debug]  SvDeleteStream
+[10:07:43] [debug]  SvAttachSpeakerToStream
+[10:07:43] [debug]  SvDetachSpeakerFromStream
+[10:07:43] [debug]  SvGetVersion
+[10:07:43] [debug]  SvHasMicro
+[10:07:43] [debug]  SvCreateDLStreamAtPlayer
+[10:07:43] [debug]  SvAttachListenerToStream
+[10:07:43] [debug]  SvAddKey
+[10:07:43] [debug] Run time error 19: "File or function is not found"
+[10:07:43] [debug]  SvCreateGStream
+[10:07:43] [debug]  SvDeleteStream
+[10:07:43] [debug]  SvAttachSpeakerToStream
+[10:07:43] [debug]  SvDetachSpeakerFromStream
+[10:07:43] [debug]  SvGetVersion
+[10:07:43] [debug]  SvHasMicro
+[10:07:43] [debug]  SvCreateDLStreamAtPlayer
+[10:07:43] [debug]  SvAttachListenerToStream
+[10:07:43] [debug]  SvAddKey
+[10:07:43] Script[gamemodes/relative.amx]: Run time error 19: "File or function is not found"
+[10:07:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:08:33] password = ""  (string)
+[10:08:33] weburl = "www.sa-mp.com"  (string)
+[10:08:33] password = ""  (string)
+[10:08:33] 
+[10:08:33] Server Plugins
+[10:08:33] --------------
+[10:08:33]  Loading plugin: sampvoice
+[10:08:33] [sv:dbg:network:init] : module initializing...
+[10:08:33] [dbg:raknet:init] : module initializing...
+[10:08:33] [dbg:raknet:init] : module initialized
+[10:08:33] [sv:dbg:network:init] : module initialized
+[10:08:33] [sv:dbg:main:Load] : creating 4 work threads...
+[10:08:33]  -------------------------------------------    
+[10:08:33]    ___                __   __    _              
+[10:08:33]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[10:08:33]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[10:08:34]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[10:08:34]                   |_|                           
+[10:08:34]  -------------------------------------------    
+[10:08:34]            SampVoice by MOR loaded              
+[10:08:34]  -------------------------------------------    
+[10:08:34]   Loaded.
+[10:08:34]  Loading plugin: crashdetect
+[10:08:34]   CrashDetect plugin 4.19.4
+[10:08:34]   Loaded.
+[10:08:34]  Loading plugin: whirlpool
+[10:08:34]  
+[10:08:34]  ==================
+[10:08:34]  
+[10:08:34]   Whirlpool loaded
+[10:08:34]  
+[10:08:34]  ==================
+[10:08:34]  
+[10:08:34]   Loaded.
+[10:08:34]  Loading plugin: pawncmd
+[10:08:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[10:08:34]   Loaded.
+[10:08:34]  Loading plugin: sscanf
+[10:08:34] 
+
+[10:08:34]  ===============================
+
+[10:08:34]       sscanf plugin loaded.     
+
+[10:08:34]          Version:  2.8.1        
+
+[10:08:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[10:08:34]  ===============================
+
+[10:08:34]   Loaded.
+[10:08:34]  Loading plugin: streamer
+[10:08:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[10:08:34]   Loaded.
+[10:08:34]  Loading plugin: SKY
+[10:08:34] 
+[10:08:34]  ===============================
+[10:08:34]    
+[10:08:34]    < SKY - 2.3.0 >
+[10:08:34]    
+[10:08:34]    (c) 2008 - Present | YSF Maintainers
+[10:08:34]    (c) 2015 | Oscar "Slice" Broman
+[10:08:34]    
+[10:08:34]    Server Version: 0.3.7 R2
+[10:08:34]    Operating System: Windows
+[10:08:34]    Built on: Jul 19 2020 at 18:01:33
+[10:08:34]    
+[10:08:34]  ===============================
+[10:08:34] 
+[10:08:34]   Loaded.
+[10:08:34]  Loading plugin: mysql
+[10:08:34]  >> plugin.mysql: R39-6 successfully loaded.
+[10:08:34]   Loaded.
+[10:08:34]  Loading plugin: nativechecker
+[10:08:34]   Loaded.
+[10:08:34]  Loaded 9 plugins.
+
+[10:08:34] 
+[10:08:34] Filterscripts
+[10:08:34] ---------------
+[10:08:34]   Loading filterscript 'pcrpmap.amx'...
+[10:08:34] [sv:dbg:main:AmxLoad] : net game pointer (value:02399588) received
+[10:08:34] [sv:dbg:network:bind] : voice server running on port 52670
+[10:08:34] AMX (55117640) loaded
+[10:08:34]   Loaded 1 filterscripts.
+
+[10:08:34] AMX (55127472) loaded
+[10:08:34] *** Streamer Plugin: The include file version (0x294) for this script is older than the plugin version (0x295). The script might need to be recompiled with the latest include file.
+[10:08:34] OnScriptInit 1
+[10:08:34]  
+[10:08:34]  
+[10:08:34]  
+[10:08:34]  ======================================= 
+[10:08:34]  |                                     | 
+[10:08:34]  |        YSI version 1.06.0002        | 
+[10:08:34]  |        By Alex "Y_Less" Cole        | 
+[10:08:34]  |                                     | 
+[10:08:34]  ======================================= 
+[10:08:34]  
+[10:08:34] OnScriptInit 2
+[10:08:34] OnScriptInit 3
+[10:08:34] Iter_OnGameModeInit start: 180
+[10:08:34] Nouvelle Roleplay
+[10:08:34] 545 objects loaded.
+[10:08:34] Iter_OnGameModeInit: first
+[10:08:34] OnScriptInit 4
+[10:08:34] Number of vehicle models: 9
+[10:08:34] [Script] 7 atms loaded
+[10:08:35] [Script] 34 vendors loaded
+[10:08:35] [Script] 9 mdc loaded
+[10:08:35] [Script] 0 surgery room loaded
+[10:08:35] [Script] 43 Public Garage loaded
+[10:08:35] [Script] 2 Bars loaded
+[10:08:35] [Script] 0 houses loaded.
+[10:08:35] [Script] 1 garages loaded.
+[10:08:35] [Script] 35 businesses loaded.
+[10:08:35] [Script] 53 entrances loaded.
+[10:08:35] [Script] 7 factions loaded.
+[10:08:35] [Script] 5 gangs loaded.
+[10:08:35] [Script] 15 points loaded.
+[10:08:35] [Script] 9 turfs loaded.
+[10:09:10] [connection] incoming connection: 103.178.171.8:38938 id: 0
+[10:09:11] [sv:dbg:network:connect] : connecting player (0) with address (103.178.171.8) ...
+[10:09:11] [sv:dbg:network:connect] : player (0) assigned key (91809bf9)
+[10:09:11] [join] ParrellID has joined the server (0:103.178.171.8)
+[10:09:11] > {FFFFFF}{AAAAAA}ParrellID has joined the server [{33AA33}IP:{FFFFFF} 103.178.171.8]
+[10:09:44] {FF0000}AdmWarning: ParrellID{FFFFFF}[0] is requesting a namechange to Parrell_Sutanto. (/acceptname 0 or /denyname 0)
+[10:10:04] [sv:dbg:network:connect] : disconnecting player (0) ...
+[10:10:04] [part] ParrellID has left the server (0:0)
+[10:10:12] [connection] incoming connection: 103.178.171.8:41175 id: 0
+[10:10:12] [sv:dbg:network:connect] : connecting player (0) with address (103.178.171.8) ...
+[10:10:12] [sv:dbg:network:connect] : player (0) assigned key (3a551da2)
+[10:10:12] [join] Parrell_Sutanto has joined the server (0:103.178.171.8)
+[10:10:12] > {FFFFFF}{AAAAAA}Parrell_Sutanto has joined the server [{33AA33}IP:{FFFFFF} 103.178.171.8]
+[10:11:26] AdmCmd: Parrell_Sutanto submitted their pending application (ID: 0).
+[10:11:38] [cmd] Parrell Sutanto: [newb]
+[10:11:43] [cmd] Parrell Sutanto: [am]
+[10:11:48] [cmd] Parrell Sutanto: [help]
+[10:11:59] [cmd] Parrell Sutanto: [skill]
+[10:12:05] [cmd] Parrell Sutanto: [id]
+[10:12:12] [cmd] Parrell Sutanto: [id]
+[10:12:37]  -------------------------------------------
+[10:12:37]            SampVoice unloading...           
+[10:12:37]  -------------------------------------------
+[10:12:37] [dbg:raknet:free] : module releasing...
+[10:12:37] [sv:dbg:network:connect] : disconnecting player (0) ...
+[10:12:37] [dbg:raknet:free] : module released
+[10:12:37] [sv:dbg:network:free] : module releasing...
+[10:12:37] [sv:dbg:network:free] : module released
